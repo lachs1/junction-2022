@@ -7,32 +7,34 @@ import 'chartjs-adapter-moment';
 import {
   Chart as ChartJS,
   TimeScale,
-  CategoryScale,
   LinearScale,
+  CategoryScale,
+  BarElement,
   PointElement,
   LineElement,
-  Title,
-  Tooltip,
   Legend,
-  BarElement,
+  Tooltip,
+  LineController,
+  BarController,
 } from 'chart.js';
-import { Bar } from 'react-chartjs-2';
+import { Chart } from 'react-chartjs-2';
 
 import RAW_DATA from './data/Prices_and_Consumption.json';
 
 ChartJS.register(
   TimeScale,
-  CategoryScale,
   LinearScale,
+  CategoryScale,
+  BarElement,
   PointElement,
   LineElement,
-  Title,
-  Tooltip,
   Legend,
-  BarElement
+  Tooltip,
+  LineController,
+  BarController
 );
 
-const DATETIME = new Date('2022-10-21T00:00:00+00:00');
+const DATETIME = new Date('2022-10-31T12:00:00+00:00');
 
 export const options = {
   responsive: true,
@@ -56,6 +58,7 @@ export const options = {
       display: true,
       position: 'left',
       stacked: true,
+
     },
     y1: {
       type: 'linear',
@@ -69,6 +72,7 @@ export const options = {
     x: {
       type: 'time',
       stacked: true,
+      grid: {display: false}
     },
   },
 };
@@ -77,7 +81,7 @@ var chartReference = {};
 
 function App() {
   let startTimeInput = new Date(DATETIME);
-  startTimeInput.setDate(DATETIME.getDate() - 1);
+  startTimeInput.setDate(DATETIME.getDate() - 2);
   const [startTime, setStartTime] = useState(
     startTimeInput.toISOString().split('T')[0]
   );
@@ -85,11 +89,21 @@ function App() {
     labels: [],
     datasets: [
       {
-        label: 'Prices (snt/kWh)',
+        label: 'Price (snt/kWh)',
         data: [],
         borderColor: 'rgb(255, 99, 132)',
         backgroundColor: 'rgba(255, 99, 132, 0.5)',
         yAxisID: 'y',
+        type: 'bar',
+      },
+      {
+        label: 'Predicted price (snt/kWh)',
+        data: [],
+        borderColor: 'rgb(237, 93, 0)',
+        backgroundColor: 'rgba(237, 93, 0, 0.5)',
+        yAxisID: 'y',
+        type: 'line',
+        tension: 0.8,
       },
       {
         label: 'Consumption (kWh)',
@@ -97,6 +111,7 @@ function App() {
         borderColor: 'rgb(53, 162, 235)',
         backgroundColor: 'rgba(53, 162, 235, 0.5)',
         yAxisID: 'y1',
+        type: 'bar',
       },
     ],
   });
@@ -112,11 +127,13 @@ function App() {
     lastGraphData['labels'] = [];
     lastGraphData['datasets'][0]['data'] = [];
     lastGraphData['datasets'][1]['data'] = [];
+    lastGraphData['datasets'][2]['data'] = [];
     parsedPriceAndConsumptionData.forEach(function (item) {
       if (item['Datetime'] >= startTime) {
         lastGraphData['labels'].push(item['Datetime']);
         lastGraphData['datasets'][0]['data'].push(item['Price']);
-        lastGraphData['datasets'][1]['data'].push(item['Consumption']);
+        lastGraphData['datasets'][1]['data'].push(item['PricePrediction']);
+        lastGraphData['datasets'][2]['data'].push(item['Consumption']);
       }
     });
     setGraphData(lastGraphData);
@@ -127,7 +144,6 @@ function App() {
     const date = new Date(event.target.value);
     setStartTime(date.toISOString().split('T')[0]);
     updateGraph(date);
-    console.log(date);
   });
 
   useEffect(() => {
@@ -155,18 +171,19 @@ function App() {
     setEnergyPointsPastYear(energyPointsPastYear);
 
     let startTime = new Date(DATETIME);
-    startTime.setDate(DATETIME.getDate() - 1);
-    console.log(startTime);
+    startTime.setDate(DATETIME.getDate() - 2);
     let lastGraphData = { ...graphData };
     lastGraphData['labels'] = [];
     lastGraphData['datasets'][0]['data'] = [];
     lastGraphData['datasets'][1]['data'] = [];
+    lastGraphData['datasets'][2]['data'] = [];
 
     parsedPriceAndConsumptionData.forEach(function (item) {
       if (item['Datetime'] >= startTime) {
         lastGraphData['labels'].push(item['Datetime']);
         lastGraphData['datasets'][0]['data'].push(item['Price']);
-        lastGraphData['datasets'][1]['data'].push(item['Consumption']);
+        lastGraphData['datasets'][1]['data'].push(item['PricePrediction']);
+        lastGraphData['datasets'][2]['data'].push(item['Consumption']);
       }
     });
 
@@ -182,10 +199,10 @@ function App() {
           </div>
         </div>
         <div className='SidebarButton'>
-          🏠<div className='SidebarItem'>Home</div>
+          📊<div className='SidebarItem'>Analytics</div>
         </div>
         <div className='SidebarButton'>
-          📉<div className='SidebarItem'>Analytics</div>
+          ⚡️<div className='SidebarItem'>Control room</div>
         </div>
       </div>
       <div className='Dashboard'>
@@ -194,11 +211,13 @@ function App() {
             Hello, Ulla! Today is another perfect day to optimize your energy
             consumption at the location{' '}
             <b>Example address 8 A, 00100 Helsinki</b>.
-            <h3>Date: {DATETIME.toLocaleDateString()}</h3>
+            <h3>
+              Date and time: {DATETIME.toDateString()} {DATETIME.getHours()}:00
+            </h3>
           </div>
         </div>
         <div className='DashboardWrapper'>
-          <h1>Analytics</h1>
+          <div className='DashboardHeader'><h1>Analytics</h1></div>
           <div className='InputWrapper'>
             <h3>Select start date (UTC)</h3>
             <input
@@ -208,30 +227,55 @@ function App() {
             ></input>
           </div>
           <div className='GraphWrapper'>
-            <Bar
+            <Chart
+              type='bar'
               options={options}
               data={graphData}
               ref={(reference) => (chartReference = reference)}
               redraw={true}
             />
           </div>
-          <h1>Energy points</h1>
+          <div className='DashboardHeader'><h1>Energy optimization score</h1></div>
           <div className='EnergyPointWrapper'>
             <div className='EnergyPoint'>
               <h3>Past day</h3>
-              <div>{Math.round(energyPointsYesterday)}/100</div>
+              <div>
+                <h2
+                  style={{ color: getEnergyPointColor(energyPointsYesterday) }}
+                >
+                  {Math.round(energyPointsYesterday)}/100
+                </h2>
+              </div>
             </div>
             <div className='EnergyPoint'>
               <h3>Past week</h3>
-              <div>{Math.round(energyPointsPastWeek)}/100</div>
+              <div>
+                <h2
+                  style={{ color: getEnergyPointColor(energyPointsPastWeek) }}
+                >
+                  {Math.round(energyPointsPastWeek)}/100
+                </h2>
+              </div>
             </div>
             <div className='EnergyPoint'>
-              <h3>Past week</h3>
-              <div>{Math.round(energyPointsPastMonth)}/100</div>
+              <h3>Past month</h3>
+              <div>
+                <h2
+                  style={{ color: getEnergyPointColor(energyPointsPastMonth) }}
+                >
+                  {Math.round(energyPointsPastMonth)}/100
+                </h2>
+              </div>
             </div>
             <div className='EnergyPoint'>
               <h3>Past year</h3>
-              <div>{Math.round(energyPointsPastYear)}/100</div>
+              <div>
+                <h2
+                  style={{ color: getEnergyPointColor(energyPointsPastYear) }}
+                >
+                  {Math.round(energyPointsPastYear)}/100
+                </h2>
+              </div>
             </div>
           </div>
         </div>
@@ -240,17 +284,25 @@ function App() {
   );
 }
 
+const getEnergyPointColor = (value) => {
+  if (value < 40) return 'red';
+  if (value < 70) return '#ff9216';
+  return 'green';
+};
+
 const parsePriceAndConsumptionData = () => {
   RAW_DATA.forEach(function (item) {
     item['Datetime'] = new Date(item['Datetime']);
+    if (item['Price'] < 0) item['Price'] = 0.0;
+    if (item['PricePrediction'] < 0) item['PricePrediction'] = 0.0;
   });
   return RAW_DATA;
 };
 
 const calculateEnergyPoints = (daysBefore, priceAndConsumptionData) => {
   let startTime = new Date(DATETIME);
+  startTime.setHours(0);
   startTime.setDate(DATETIME.getDate() - daysBefore);
-
   let actualResult = 0.0;
   let bestResult = 0.0;
   let worstResult = 0.0;

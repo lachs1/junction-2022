@@ -82587,7 +82587,7 @@
         "Year": 2022,
         "Datetime": "2022-10-09T00:00:00+00:00",
         "Consumption": 0.1,
-        "PricePrediction": null
+        "PricePrediction": 2.247333
     },
     {
         "Price": 0.222,
@@ -82597,7 +82597,7 @@
         "Year": 2022,
         "Datetime": "2022-10-09T01:00:00+00:00",
         "Consumption": 0.13,
-        "PricePrediction": null
+        "PricePrediction": 1.5263263
     },
     {
         "Price": 0.4519999999999999,
@@ -82607,7 +82607,7 @@
         "Year": 2022,
         "Datetime": "2022-10-09T02:00:00+00:00",
         "Consumption": 0.08,
-        "PricePrediction": null
+        "PricePrediction": 0.8162565
     },
     {
         "Price": 0.771,
@@ -82617,7 +82617,7 @@
         "Year": 2022,
         "Datetime": "2022-10-09T03:00:00+00:00",
         "Consumption": 0.07,
-        "PricePrediction": null
+        "PricePrediction": 1.5114577
     },
     {
         "Price": 1.01,
@@ -82627,7 +82627,7 @@
         "Year": 2022,
         "Datetime": "2022-10-09T04:00:00+00:00",
         "Consumption": 0.03,
-        "PricePrediction": null
+        "PricePrediction": 2.5183604
     },
     {
         "Price": 1.137,
@@ -82637,7 +82637,7 @@
         "Year": 2022,
         "Datetime": "2022-10-09T05:00:00+00:00",
         "Consumption": 0.06,
-        "PricePrediction": null
+        "PricePrediction": 2.802631
     },
     {
         "Price": 1.394,
@@ -82647,7 +82647,7 @@
         "Year": 2022,
         "Datetime": "2022-10-09T06:00:00+00:00",
         "Consumption": 0.07,
-        "PricePrediction": null
+        "PricePrediction": 3.810834
     },
     {
         "Price": 1.682,
@@ -82657,7 +82657,7 @@
         "Year": 2022,
         "Datetime": "2022-10-09T07:00:00+00:00",
         "Consumption": 0.08,
-        "PricePrediction": null
+        "PricePrediction": 6.0759964
     },
     {
         "Price": 1.715,
@@ -82667,7 +82667,7 @@
         "Year": 2022,
         "Datetime": "2022-10-09T08:00:00+00:00",
         "Consumption": 0.06,
-        "PricePrediction": null
+        "PricePrediction": 5.673316
     },
     {
         "Price": 1.5539999999999998,
@@ -82677,7 +82677,7 @@
         "Year": 2022,
         "Datetime": "2022-10-09T09:00:00+00:00",
         "Consumption": 0.05,
-        "PricePrediction": null
+        "PricePrediction": 4.7523336
     },
     {
         "Price": 1.467,
@@ -82687,7 +82687,7 @@
         "Year": 2022,
         "Datetime": "2022-10-09T10:00:00+00:00",
         "Consumption": 0.04,
-        "PricePrediction": null
+        "PricePrediction": 3.3989074
     },
     {
         "Price": 1.424,
@@ -82697,7 +82697,7 @@
         "Year": 2022,
         "Datetime": "2022-10-09T11:00:00+00:00",
         "Consumption": 0.05,
-        "PricePrediction": null
+        "PricePrediction": 1.5378495
     },
     {
         "Price": 1.451,
@@ -82707,7 +82707,7 @@
         "Year": 2022,
         "Datetime": "2022-10-09T12:00:00+00:00",
         "Consumption": 0.07,
-        "PricePrediction": null
+        "PricePrediction": 2.0362835
     },
     {
         "Price": 1.442,
@@ -82717,7 +82717,7 @@
         "Year": 2022,
         "Datetime": "2022-10-09T13:00:00+00:00",
         "Consumption": 0.08,
-        "PricePrediction": null
+        "PricePrediction": 1.3684833
     },
     {
         "Price": 1.468,
@@ -82727,7 +82727,7 @@
         "Year": 2022,
         "Datetime": "2022-10-09T14:00:00+00:00",
         "Consumption": 0.05,
-        "PricePrediction": null
+        "PricePrediction": 3.6280363
     },
     {
         "Price": 1.504,
@@ -82737,7 +82737,7 @@
         "Year": 2022,
         "Datetime": "2022-10-09T15:00:00+00:00",
         "Consumption": 0.06,
-        "PricePrediction": null
+        "PricePrediction": 6.100669
     },
     {
         "Price": 1.544,
@@ -82747,7 +82747,7 @@
         "Year": 2022,
         "Datetime": "2022-10-09T16:00:00+00:00",
         "Consumption": 0.55,
-        "PricePrediction": null
+        "PricePrediction": 11.531443
     },
     {
         "Price": 1.507,
@@ -82757,7 +82757,7 @@
         "Year": 2022,
         "Datetime": "2022-10-09T17:00:00+00:00",
         "Consumption": 0.27,
-        "PricePrediction": null
+        "PricePrediction": 6.818
     },
     {
         "Price": 1.4289999999999998,
@@ -82767,7 +82767,7 @@
         "Year": 2022,
         "Datetime": "2022-10-09T18:00:00+00:00",
         "Consumption": 0.3,
-        "PricePrediction": null
+        "PricePrediction": 4.2151046
     },
     {
         "Price": 1.4300000000000002,
@@ -82777,7 +82777,7 @@
         "Year": 2022,
         "Datetime": "2022-10-09T19:00:00+00:00",
         "Consumption": 0.1,
-        "PricePrediction": null
+        "PricePrediction": 3.7187462
     },
     {
         "Price": 1.271,
@@ -82787,7 +82787,7 @@
         "Year": 2022,
         "Datetime": "2022-10-09T20:00:00+00:00",
         "Consumption": 0.06,
-        "PricePrediction": null
+        "PricePrediction": 1.2092552
     },
     {
         "Price": 1.073,
@@ -82797,7 +82797,7 @@
         "Year": 2022,
         "Datetime": "2022-10-09T21:00:00+00:00",
         "Consumption": 0.09,
-        "PricePrediction": null
+        "PricePrediction": 1.2300692
     },
     {
         "Price": 1.122,
@@ -82807,7 +82807,7 @@
         "Year": 2022,
         "Datetime": "2022-10-09T22:00:00+00:00",
         "Consumption": 0.04,
-        "PricePrediction": null
+        "PricePrediction": 2.9974349
     },
     {
         "Price": 1.038,
@@ -82817,7 +82817,7 @@
         "Year": 2022,
         "Datetime": "2022-10-09T23:00:00+00:00",
         "Consumption": 0.07,
-        "PricePrediction": null
+        "PricePrediction": 3.019806
     },
     {
         "Price": 0.978,
@@ -82827,7 +82827,7 @@
         "Year": 2022,
         "Datetime": "2022-10-10T00:00:00+00:00",
         "Consumption": 0.07,
-        "PricePrediction": null
+        "PricePrediction": 1.9926233
     },
     {
         "Price": 0.903,
@@ -82837,7 +82837,7 @@
         "Year": 2022,
         "Datetime": "2022-10-10T01:00:00+00:00",
         "Consumption": 0.1,
-        "PricePrediction": null
+        "PricePrediction": 2.1585138
     },
     {
         "Price": 0.953,
@@ -82847,7 +82847,7 @@
         "Year": 2022,
         "Datetime": "2022-10-10T02:00:00+00:00",
         "Consumption": 0.05,
-        "PricePrediction": null
+        "PricePrediction": 2.7945876
     },
     {
         "Price": 1.131,
@@ -82857,7 +82857,7 @@
         "Year": 2022,
         "Datetime": "2022-10-10T03:00:00+00:00",
         "Consumption": 0.11,
-        "PricePrediction": null
+        "PricePrediction": 2.2934914
     },
     {
         "Price": 1.254,
@@ -82867,7 +82867,7 @@
         "Year": 2022,
         "Datetime": "2022-10-10T04:00:00+00:00",
         "Consumption": 0.39,
-        "PricePrediction": null
+        "PricePrediction": 1.0376389
     },
     {
         "Price": 1.216,
@@ -82877,7 +82877,7 @@
         "Year": 2022,
         "Datetime": "2022-10-10T05:00:00+00:00",
         "Consumption": 0.27,
-        "PricePrediction": null
+        "PricePrediction": 0.111176014
     },
     {
         "Price": 1.296,
@@ -82887,7 +82887,7 @@
         "Year": 2022,
         "Datetime": "2022-10-10T06:00:00+00:00",
         "Consumption": 0.32,
-        "PricePrediction": null
+        "PricePrediction": 2.4190004
     },
     {
         "Price": 1.354,
@@ -82897,7 +82897,7 @@
         "Year": 2022,
         "Datetime": "2022-10-10T07:00:00+00:00",
         "Consumption": 0.18,
-        "PricePrediction": null
+        "PricePrediction": 4.3101745
     },
     {
         "Price": 1.308,
@@ -82907,7 +82907,7 @@
         "Year": 2022,
         "Datetime": "2022-10-10T08:00:00+00:00",
         "Consumption": 0.05,
-        "PricePrediction": null
+        "PricePrediction": 7.577143
     },
     {
         "Price": 1.274,
@@ -82917,7 +82917,7 @@
         "Year": 2022,
         "Datetime": "2022-10-10T09:00:00+00:00",
         "Consumption": 0.06,
-        "PricePrediction": null
+        "PricePrediction": 5.1861386
     },
     {
         "Price": 1.17,
@@ -82927,7 +82927,7 @@
         "Year": 2022,
         "Datetime": "2022-10-10T10:00:00+00:00",
         "Consumption": 0.19,
-        "PricePrediction": null
+        "PricePrediction": 0.75043875
     },
     {
         "Price": 1.06,
@@ -82937,7 +82937,7 @@
         "Year": 2022,
         "Datetime": "2022-10-10T11:00:00+00:00",
         "Consumption": 0.25,
-        "PricePrediction": null
+        "PricePrediction": 1.106686
     },
     {
         "Price": 0.93,
@@ -82947,7 +82947,7 @@
         "Year": 2022,
         "Datetime": "2022-10-10T12:00:00+00:00",
         "Consumption": 0.11,
-        "PricePrediction": null
+        "PricePrediction": 1.871067
     },
     {
         "Price": 1.065,
@@ -82957,7 +82957,7 @@
         "Year": 2022,
         "Datetime": "2022-10-10T13:00:00+00:00",
         "Consumption": 0.1,
-        "PricePrediction": null
+        "PricePrediction": 1.3096397
     },
     {
         "Price": 1.105,
@@ -82967,7 +82967,7 @@
         "Year": 2022,
         "Datetime": "2022-10-10T14:00:00+00:00",
         "Consumption": 0.57,
-        "PricePrediction": null
+        "PricePrediction": 2.549085
     },
     {
         "Price": 1.2970000000000002,
@@ -82977,7 +82977,7 @@
         "Year": 2022,
         "Datetime": "2022-10-10T15:00:00+00:00",
         "Consumption": 0.35,
-        "PricePrediction": null
+        "PricePrediction": 5.9081078
     },
     {
         "Price": 1.337,
@@ -82987,7 +82987,7 @@
         "Year": 2022,
         "Datetime": "2022-10-10T16:00:00+00:00",
         "Consumption": 0.53,
-        "PricePrediction": null
+        "PricePrediction": 11.523164
     },
     {
         "Price": 1.29,
@@ -82997,7 +82997,7 @@
         "Year": 2022,
         "Datetime": "2022-10-10T17:00:00+00:00",
         "Consumption": 0.51,
-        "PricePrediction": null
+        "PricePrediction": 3.87988
     },
     {
         "Price": 1.066,
@@ -83007,7 +83007,7 @@
         "Year": 2022,
         "Datetime": "2022-10-10T18:00:00+00:00",
         "Consumption": 0.26,
-        "PricePrediction": null
+        "PricePrediction": 2.1084106
     },
     {
         "Price": 0.959,
@@ -83017,7 +83017,7 @@
         "Year": 2022,
         "Datetime": "2022-10-10T19:00:00+00:00",
         "Consumption": 0.51,
-        "PricePrediction": null
+        "PricePrediction": 1.5684372
     },
     {
         "Price": 0.686,
@@ -83027,7 +83027,7 @@
         "Year": 2022,
         "Datetime": "2022-10-10T20:00:00+00:00",
         "Consumption": 0.11,
-        "PricePrediction": null
+        "PricePrediction": -0.1074729
     },
     {
         "Price": 0.202,
@@ -83037,7 +83037,7 @@
         "Year": 2022,
         "Datetime": "2022-10-10T21:00:00+00:00",
         "Consumption": 0.06,
-        "PricePrediction": null
+        "PricePrediction": 2.203721
     },
     {
         "Price": 0.007,
@@ -83047,7 +83047,7 @@
         "Year": 2022,
         "Datetime": "2022-10-10T22:00:00+00:00",
         "Consumption": 0.1,
-        "PricePrediction": null
+        "PricePrediction": 3.5863907
     },
     {
         "Price": 0.006,
@@ -83057,7 +83057,7 @@
         "Year": 2022,
         "Datetime": "2022-10-10T23:00:00+00:00",
         "Consumption": 0.02,
-        "PricePrediction": null
+        "PricePrediction": 3.8877742
     },
     {
         "Price": 0.0409999999999999,
@@ -83067,7 +83067,7 @@
         "Year": 2022,
         "Datetime": "2022-10-11T00:00:00+00:00",
         "Consumption": 0.08,
-        "PricePrediction": null
+        "PricePrediction": 2.1909678
     },
     {
         "Price": 0.105,
@@ -83077,7 +83077,7 @@
         "Year": 2022,
         "Datetime": "2022-10-11T01:00:00+00:00",
         "Consumption": 0.09,
-        "PricePrediction": null
+        "PricePrediction": 2.6807039
     },
     {
         "Price": 0.207,
@@ -83087,7 +83087,7 @@
         "Year": 2022,
         "Datetime": "2022-10-11T02:00:00+00:00",
         "Consumption": 0.08,
-        "PricePrediction": null
+        "PricePrediction": 1.47054
     },
     {
         "Price": 0.7769999999999999,
@@ -83097,7 +83097,7 @@
         "Year": 2022,
         "Datetime": "2022-10-11T03:00:00+00:00",
         "Consumption": 0.03,
-        "PricePrediction": null
+        "PricePrediction": 1.7119296
     },
     {
         "Price": 1.097,
@@ -83107,7 +83107,7 @@
         "Year": 2022,
         "Datetime": "2022-10-11T04:00:00+00:00",
         "Consumption": 0.26,
-        "PricePrediction": null
+        "PricePrediction": 1.1934536
     },
     {
         "Price": 1.262,
@@ -83117,7 +83117,7 @@
         "Year": 2022,
         "Datetime": "2022-10-11T05:00:00+00:00",
         "Consumption": 0.32,
-        "PricePrediction": null
+        "PricePrediction": 1.7234396
     },
     {
         "Price": 1.3130000000000002,
@@ -83127,7 +83127,7 @@
         "Year": 2022,
         "Datetime": "2022-10-11T06:00:00+00:00",
         "Consumption": 0.33,
-        "PricePrediction": null
+        "PricePrediction": 5.19136
     },
     {
         "Price": 1.2970000000000002,
@@ -83137,7 +83137,7 @@
         "Year": 2022,
         "Datetime": "2022-10-11T07:00:00+00:00",
         "Consumption": 0.23,
-        "PricePrediction": null
+        "PricePrediction": 3.314301
     },
     {
         "Price": 1.285,
@@ -83147,7 +83147,7 @@
         "Year": 2022,
         "Datetime": "2022-10-11T08:00:00+00:00",
         "Consumption": 0.95,
-        "PricePrediction": null
+        "PricePrediction": 3.6660411
     },
     {
         "Price": 1.264,
@@ -83157,7 +83157,7 @@
         "Year": 2022,
         "Datetime": "2022-10-11T09:00:00+00:00",
         "Consumption": 0.27,
-        "PricePrediction": null
+        "PricePrediction": 3.2525618
     },
     {
         "Price": 1.26,
@@ -83167,7 +83167,7 @@
         "Year": 2022,
         "Datetime": "2022-10-11T10:00:00+00:00",
         "Consumption": 0.24,
-        "PricePrediction": null
+        "PricePrediction": 2.9212832
     },
     {
         "Price": 2.499,
@@ -83177,7 +83177,7 @@
         "Year": 2022,
         "Datetime": "2022-10-11T11:00:00+00:00",
         "Consumption": 0.11,
-        "PricePrediction": null
+        "PricePrediction": 4.033974
     },
     {
         "Price": 1.114,
@@ -83187,7 +83187,7 @@
         "Year": 2022,
         "Datetime": "2022-10-11T12:00:00+00:00",
         "Consumption": 0.25,
-        "PricePrediction": null
+        "PricePrediction": 2.0676901
     },
     {
         "Price": 1.096,
@@ -83197,7 +83197,7 @@
         "Year": 2022,
         "Datetime": "2022-10-11T13:00:00+00:00",
         "Consumption": 0.28,
-        "PricePrediction": null
+        "PricePrediction": 14.924196
     },
     {
         "Price": 1.141,
@@ -83207,7 +83207,7 @@
         "Year": 2022,
         "Datetime": "2022-10-11T14:00:00+00:00",
         "Consumption": 0.3,
-        "PricePrediction": null
+        "PricePrediction": 14.054661
     },
     {
         "Price": 1.268,
@@ -83217,7 +83217,7 @@
         "Year": 2022,
         "Datetime": "2022-10-11T15:00:00+00:00",
         "Consumption": 0.08,
-        "PricePrediction": null
+        "PricePrediction": 7.92726
     },
     {
         "Price": 1.307,
@@ -83227,7 +83227,7 @@
         "Year": 2022,
         "Datetime": "2022-10-11T16:00:00+00:00",
         "Consumption": 0.12,
-        "PricePrediction": null
+        "PricePrediction": 13.496356
     },
     {
         "Price": 1.278,
@@ -83237,7 +83237,7 @@
         "Year": 2022,
         "Datetime": "2022-10-11T17:00:00+00:00",
         "Consumption": 0.22,
-        "PricePrediction": null
+        "PricePrediction": 9.745486
     },
     {
         "Price": 1.1,
@@ -83247,7 +83247,7 @@
         "Year": 2022,
         "Datetime": "2022-10-11T18:00:00+00:00",
         "Consumption": 0.49,
-        "PricePrediction": null
+        "PricePrediction": 4.257697
     },
     {
         "Price": 1.058,
@@ -83257,7 +83257,7 @@
         "Year": 2022,
         "Datetime": "2022-10-11T19:00:00+00:00",
         "Consumption": 0.1,
-        "PricePrediction": null
+        "PricePrediction": 0.6689597
     },
     {
         "Price": 0.8400000000000001,
@@ -83267,7 +83267,7 @@
         "Year": 2022,
         "Datetime": "2022-10-11T20:00:00+00:00",
         "Consumption": 0.43,
-        "PricePrediction": null
+        "PricePrediction": 1.5780574
     },
     {
         "Price": 0.315,
@@ -83277,7 +83277,7 @@
         "Year": 2022,
         "Datetime": "2022-10-11T21:00:00+00:00",
         "Consumption": 0.12,
-        "PricePrediction": null
+        "PricePrediction": 2.5374584
     },
     {
         "Price": 1.042,
@@ -83287,7 +83287,7 @@
         "Year": 2022,
         "Datetime": "2022-10-11T22:00:00+00:00",
         "Consumption": 0.06,
-        "PricePrediction": null
+        "PricePrediction": 1.7821573
     },
     {
         "Price": 1.03,
@@ -83297,7 +83297,7 @@
         "Year": 2022,
         "Datetime": "2022-10-11T23:00:00+00:00",
         "Consumption": 0.05,
-        "PricePrediction": null
+        "PricePrediction": 0.6505089
     },
     {
         "Price": 1.053,
@@ -83307,7 +83307,7 @@
         "Year": 2022,
         "Datetime": "2022-10-12T00:00:00+00:00",
         "Consumption": 0.12,
-        "PricePrediction": null
+        "PricePrediction": 3.386367
     },
     {
         "Price": 1.124,
@@ -83317,7 +83317,7 @@
         "Year": 2022,
         "Datetime": "2022-10-12T01:00:00+00:00",
         "Consumption": 0.04,
-        "PricePrediction": null
+        "PricePrediction": 3.6410453
     },
     {
         "Price": 1.232,
@@ -83327,7 +83327,7 @@
         "Year": 2022,
         "Datetime": "2022-10-12T02:00:00+00:00",
         "Consumption": 0.07,
-        "PricePrediction": null
+        "PricePrediction": 4.6828055
     },
     {
         "Price": 1.364,
@@ -83337,7 +83337,7 @@
         "Year": 2022,
         "Datetime": "2022-10-12T03:00:00+00:00",
         "Consumption": 0.1,
-        "PricePrediction": null
+        "PricePrediction": 3.3127272
     },
     {
         "Price": 5.221,
@@ -83347,7 +83347,7 @@
         "Year": 2022,
         "Datetime": "2022-10-12T04:00:00+00:00",
         "Consumption": 0.27,
-        "PricePrediction": null
+        "PricePrediction": 4.6617775
     },
     {
         "Price": 6.720999999999999,
@@ -83357,7 +83357,7 @@
         "Year": 2022,
         "Datetime": "2022-10-12T05:00:00+00:00",
         "Consumption": 0.24,
-        "PricePrediction": null
+        "PricePrediction": 5.815182
     },
     {
         "Price": 8.346,
@@ -83367,7 +83367,7 @@
         "Year": 2022,
         "Datetime": "2022-10-12T06:00:00+00:00",
         "Consumption": 0.07,
-        "PricePrediction": null
+        "PricePrediction": 9.128012
     },
     {
         "Price": 20.975,
@@ -83377,7 +83377,7 @@
         "Year": 2022,
         "Datetime": "2022-10-12T07:00:00+00:00",
         "Consumption": 0.03,
-        "PricePrediction": null
+        "PricePrediction": 7.793722
     },
     {
         "Price": 26.993,
@@ -83387,7 +83387,7 @@
         "Year": 2022,
         "Datetime": "2022-10-12T08:00:00+00:00",
         "Consumption": 0.27,
-        "PricePrediction": null
+        "PricePrediction": 6.748412
     },
     {
         "Price": 20.216,
@@ -83397,7 +83397,7 @@
         "Year": 2022,
         "Datetime": "2022-10-12T09:00:00+00:00",
         "Consumption": 0.23,
-        "PricePrediction": null
+        "PricePrediction": 7.163104
     },
     {
         "Price": 19.279,
@@ -83407,7 +83407,7 @@
         "Year": 2022,
         "Datetime": "2022-10-12T10:00:00+00:00",
         "Consumption": 0.25,
-        "PricePrediction": null
+        "PricePrediction": 8.20172
     },
     {
         "Price": 19.702,
@@ -83417,7 +83417,7 @@
         "Year": 2022,
         "Datetime": "2022-10-12T11:00:00+00:00",
         "Consumption": 0.33,
-        "PricePrediction": null
+        "PricePrediction": 6.8110375
     },
     {
         "Price": 19.002,
@@ -83427,7 +83427,7 @@
         "Year": 2022,
         "Datetime": "2022-10-12T12:00:00+00:00",
         "Consumption": 0.26,
-        "PricePrediction": null
+        "PricePrediction": 6.8884377
     },
     {
         "Price": 18.709,
@@ -83437,7 +83437,7 @@
         "Year": 2022,
         "Datetime": "2022-10-12T13:00:00+00:00",
         "Consumption": 0.32,
-        "PricePrediction": null
+        "PricePrediction": 7.332626
     },
     {
         "Price": 18.536,
@@ -83447,7 +83447,7 @@
         "Year": 2022,
         "Datetime": "2022-10-12T14:00:00+00:00",
         "Consumption": 0.31,
-        "PricePrediction": null
+        "PricePrediction": 8.265912
     },
     {
         "Price": 20.331,
@@ -83457,7 +83457,7 @@
         "Year": 2022,
         "Datetime": "2022-10-12T15:00:00+00:00",
         "Consumption": 0.1,
-        "PricePrediction": null
+        "PricePrediction": 9.296319
     },
     {
         "Price": 20.494,
@@ -83467,7 +83467,7 @@
         "Year": 2022,
         "Datetime": "2022-10-12T16:00:00+00:00",
         "Consumption": 0.17,
-        "PricePrediction": null
+        "PricePrediction": 8.178284
     },
     {
         "Price": 20.207,
@@ -83477,7 +83477,7 @@
         "Year": 2022,
         "Datetime": "2022-10-12T17:00:00+00:00",
         "Consumption": 0.3,
-        "PricePrediction": null
+        "PricePrediction": 8.155347
     },
     {
         "Price": 18.386000000000003,
@@ -83487,7 +83487,7 @@
         "Year": 2022,
         "Datetime": "2022-10-12T18:00:00+00:00",
         "Consumption": 0.2,
-        "PricePrediction": null
+        "PricePrediction": 8.429747
     },
     {
         "Price": 17.668,
@@ -83497,7 +83497,7 @@
         "Year": 2022,
         "Datetime": "2022-10-12T19:00:00+00:00",
         "Consumption": 0.44,
-        "PricePrediction": null
+        "PricePrediction": 6.947327
     },
     {
         "Price": 12.455,
@@ -83507,7 +83507,7 @@
         "Year": 2022,
         "Datetime": "2022-10-12T20:00:00+00:00",
         "Consumption": 0.13,
-        "PricePrediction": null
+        "PricePrediction": 8.729826
     },
     {
         "Price": 8.0,
@@ -83517,7 +83517,7 @@
         "Year": 2022,
         "Datetime": "2022-10-12T21:00:00+00:00",
         "Consumption": 0.38,
-        "PricePrediction": null
+        "PricePrediction": 8.210909
     },
     {
         "Price": 1.52,
@@ -83527,7 +83527,7 @@
         "Year": 2022,
         "Datetime": "2022-10-12T22:00:00+00:00",
         "Consumption": 0.12,
-        "PricePrediction": null
+        "PricePrediction": 7.613912
     },
     {
         "Price": 1.476,
@@ -83537,7 +83537,7 @@
         "Year": 2022,
         "Datetime": "2022-10-12T23:00:00+00:00",
         "Consumption": 0.06,
-        "PricePrediction": null
+        "PricePrediction": 6.8277354
     },
     {
         "Price": 1.423,
@@ -83547,7 +83547,7 @@
         "Year": 2022,
         "Datetime": "2022-10-13T00:00:00+00:00",
         "Consumption": 0.06,
-        "PricePrediction": null
+        "PricePrediction": 1.9810172
     },
     {
         "Price": 1.409,
@@ -83557,7 +83557,7 @@
         "Year": 2022,
         "Datetime": "2022-10-13T01:00:00+00:00",
         "Consumption": 0.11,
-        "PricePrediction": null
+        "PricePrediction": 0.8316764
     },
     {
         "Price": 1.451,
@@ -83567,7 +83567,7 @@
         "Year": 2022,
         "Datetime": "2022-10-13T02:00:00+00:00",
         "Consumption": 0.03,
-        "PricePrediction": null
+        "PricePrediction": 1.6405176
     },
     {
         "Price": 1.565,
@@ -83577,7 +83577,7 @@
         "Year": 2022,
         "Datetime": "2022-10-13T03:00:00+00:00",
         "Consumption": 0.08,
-        "PricePrediction": null
+        "PricePrediction": 2.304601
     },
     {
         "Price": 2.505,
@@ -83587,7 +83587,7 @@
         "Year": 2022,
         "Datetime": "2022-10-13T04:00:00+00:00",
         "Consumption": 0.1,
-        "PricePrediction": null
+        "PricePrediction": 1.4188435
     },
     {
         "Price": 11.99,
@@ -83597,7 +83597,7 @@
         "Year": 2022,
         "Datetime": "2022-10-13T05:00:00+00:00",
         "Consumption": 0.43,
-        "PricePrediction": null
+        "PricePrediction": 4.2661667
     },
     {
         "Price": 15.509,
@@ -83607,7 +83607,7 @@
         "Year": 2022,
         "Datetime": "2022-10-13T06:00:00+00:00",
         "Consumption": 0.22,
-        "PricePrediction": null
+        "PricePrediction": 2.452221
     },
     {
         "Price": 15.5,
@@ -83617,7 +83617,7 @@
         "Year": 2022,
         "Datetime": "2022-10-13T07:00:00+00:00",
         "Consumption": 0.19,
-        "PricePrediction": null
+        "PricePrediction": 3.2173057
     },
     {
         "Price": 15.503,
@@ -83627,7 +83627,7 @@
         "Year": 2022,
         "Datetime": "2022-10-13T08:00:00+00:00",
         "Consumption": 0.21,
-        "PricePrediction": null
+        "PricePrediction": 3.4926174
     },
     {
         "Price": 15.505,
@@ -83637,7 +83637,7 @@
         "Year": 2022,
         "Datetime": "2022-10-13T09:00:00+00:00",
         "Consumption": 0.22,
-        "PricePrediction": null
+        "PricePrediction": 2.1335435
     },
     {
         "Price": 13.59,
@@ -83647,7 +83647,7 @@
         "Year": 2022,
         "Datetime": "2022-10-13T10:00:00+00:00",
         "Consumption": 0.22,
-        "PricePrediction": null
+        "PricePrediction": 0.43420056
     },
     {
         "Price": 11.995,
@@ -83657,7 +83657,7 @@
         "Year": 2022,
         "Datetime": "2022-10-13T11:00:00+00:00",
         "Consumption": 0.24,
-        "PricePrediction": null
+        "PricePrediction": -0.7742012
     },
     {
         "Price": 11.994,
@@ -83667,7 +83667,7 @@
         "Year": 2022,
         "Datetime": "2022-10-13T12:00:00+00:00",
         "Consumption": 0.19,
-        "PricePrediction": null
+        "PricePrediction": 0.14384834
     },
     {
         "Price": 11.404,
@@ -83677,7 +83677,7 @@
         "Year": 2022,
         "Datetime": "2022-10-13T13:00:00+00:00",
         "Consumption": 0.21,
-        "PricePrediction": null
+        "PricePrediction": 1.3319147
     },
     {
         "Price": 11.995,
@@ -83687,7 +83687,7 @@
         "Year": 2022,
         "Datetime": "2022-10-13T14:00:00+00:00",
         "Consumption": 0.23,
-        "PricePrediction": null
+        "PricePrediction": 3.4274669
     },
     {
         "Price": 15.006,
@@ -83697,7 +83697,7 @@
         "Year": 2022,
         "Datetime": "2022-10-13T15:00:00+00:00",
         "Consumption": 0.42,
-        "PricePrediction": null
+        "PricePrediction": 4.255438
     },
     {
         "Price": 19.214,
@@ -83707,7 +83707,7 @@
         "Year": 2022,
         "Datetime": "2022-10-13T16:00:00+00:00",
         "Consumption": 0.35,
-        "PricePrediction": null
+        "PricePrediction": 3.4499931
     },
     {
         "Price": 17.506999999999998,
@@ -83717,7 +83717,7 @@
         "Year": 2022,
         "Datetime": "2022-10-13T17:00:00+00:00",
         "Consumption": 0.25,
-        "PricePrediction": null
+        "PricePrediction": 2.230228
     },
     {
         "Price": 5.9030000000000005,
@@ -83727,7 +83727,7 @@
         "Year": 2022,
         "Datetime": "2022-10-13T18:00:00+00:00",
         "Consumption": 0.28,
-        "PricePrediction": null
+        "PricePrediction": 0.07624045
     },
     {
         "Price": 4.007,
@@ -83737,7 +83737,7 @@
         "Year": 2022,
         "Datetime": "2022-10-13T19:00:00+00:00",
         "Consumption": 0.45,
-        "PricePrediction": null
+        "PricePrediction": -0.29705912
     },
     {
         "Price": 3.487,
@@ -83747,7 +83747,7 @@
         "Year": 2022,
         "Datetime": "2022-10-13T20:00:00+00:00",
         "Consumption": 0.14,
-        "PricePrediction": null
+        "PricePrediction": -1.4690627
     },
     {
         "Price": 2.971,
@@ -83757,7 +83757,7 @@
         "Year": 2022,
         "Datetime": "2022-10-13T21:00:00+00:00",
         "Consumption": 0.37,
-        "PricePrediction": null
+        "PricePrediction": 0.19257872
     },
     {
         "Price": 3.232,
@@ -83767,7 +83767,7 @@
         "Year": 2022,
         "Datetime": "2022-10-13T22:00:00+00:00",
         "Consumption": 0.12,
-        "PricePrediction": null
+        "PricePrediction": -0.16863368
     },
     {
         "Price": 3.428,
@@ -83777,7 +83777,7 @@
         "Year": 2022,
         "Datetime": "2022-10-13T23:00:00+00:00",
         "Consumption": 0.05,
-        "PricePrediction": null
+        "PricePrediction": -0.4704831
     },
     {
         "Price": 3.636,
@@ -83787,7 +83787,7 @@
         "Year": 2022,
         "Datetime": "2022-10-14T00:00:00+00:00",
         "Consumption": 0.07,
-        "PricePrediction": null
+        "PricePrediction": 1.7906784
     },
     {
         "Price": 4.6240000000000006,
@@ -83797,7 +83797,7 @@
         "Year": 2022,
         "Datetime": "2022-10-14T01:00:00+00:00",
         "Consumption": 0.11,
-        "PricePrediction": null
+        "PricePrediction": 5.485254
     },
     {
         "Price": 6.004,
@@ -83807,7 +83807,7 @@
         "Year": 2022,
         "Datetime": "2022-10-14T02:00:00+00:00",
         "Consumption": 0.03,
-        "PricePrediction": null
+        "PricePrediction": 4.489561
     },
     {
         "Price": 17.563,
@@ -83817,7 +83817,7 @@
         "Year": 2022,
         "Datetime": "2022-10-14T03:00:00+00:00",
         "Consumption": 0.08,
-        "PricePrediction": null
+        "PricePrediction": 1.4143304
     },
     {
         "Price": 22.08,
@@ -83827,7 +83827,7 @@
         "Year": 2022,
         "Datetime": "2022-10-14T04:00:00+00:00",
         "Consumption": 0.09,
-        "PricePrediction": null
+        "PricePrediction": 5.348167
     },
     {
         "Price": 24.380000000000003,
@@ -83837,7 +83837,7 @@
         "Year": 2022,
         "Datetime": "2022-10-14T05:00:00+00:00",
         "Consumption": 0.32,
-        "PricePrediction": null
+        "PricePrediction": 4.7920895
     },
     {
         "Price": 22.291,
@@ -83847,7 +83847,7 @@
         "Year": 2022,
         "Datetime": "2022-10-14T06:00:00+00:00",
         "Consumption": 0.31,
-        "PricePrediction": null
+        "PricePrediction": 5.804962
     },
     {
         "Price": 25.725,
@@ -83857,7 +83857,7 @@
         "Year": 2022,
         "Datetime": "2022-10-14T07:00:00+00:00",
         "Consumption": 0.3,
-        "PricePrediction": null
+        "PricePrediction": 2.5326178
     },
     {
         "Price": 29.726,
@@ -83867,7 +83867,7 @@
         "Year": 2022,
         "Datetime": "2022-10-14T08:00:00+00:00",
         "Consumption": 0.16,
-        "PricePrediction": null
+        "PricePrediction": 13.093507
     },
     {
         "Price": 25.982,
@@ -83877,7 +83877,7 @@
         "Year": 2022,
         "Datetime": "2022-10-14T09:00:00+00:00",
         "Consumption": 0.21,
-        "PricePrediction": null
+        "PricePrediction": 1.5310236
     },
     {
         "Price": 26.201,
@@ -83887,7 +83887,7 @@
         "Year": 2022,
         "Datetime": "2022-10-14T10:00:00+00:00",
         "Consumption": 0.19,
-        "PricePrediction": null
+        "PricePrediction": 13.434623
     },
     {
         "Price": 23.837,
@@ -83897,7 +83897,7 @@
         "Year": 2022,
         "Datetime": "2022-10-14T11:00:00+00:00",
         "Consumption": 0.07,
-        "PricePrediction": null
+        "PricePrediction": 14.645965
     },
     {
         "Price": 22.142,
@@ -83907,7 +83907,7 @@
         "Year": 2022,
         "Datetime": "2022-10-14T12:00:00+00:00",
         "Consumption": 0.02,
-        "PricePrediction": null
+        "PricePrediction": 10.18018
     },
     {
         "Price": 24.269,
@@ -83917,7 +83917,7 @@
         "Year": 2022,
         "Datetime": "2022-10-14T13:00:00+00:00",
         "Consumption": 0.1,
-        "PricePrediction": null
+        "PricePrediction": 9.884947
     },
     {
         "Price": 25.860000000000003,
@@ -83927,7 +83927,7 @@
         "Year": 2022,
         "Datetime": "2022-10-14T14:00:00+00:00",
         "Consumption": 0.3,
-        "PricePrediction": null
+        "PricePrediction": 10.832897
     },
     {
         "Price": 27.5,
@@ -83937,7 +83937,7 @@
         "Year": 2022,
         "Datetime": "2022-10-14T15:00:00+00:00",
         "Consumption": 0.11,
-        "PricePrediction": null
+        "PricePrediction": 15.112234
     },
     {
         "Price": 29.0,
@@ -83947,7 +83947,7 @@
         "Year": 2022,
         "Datetime": "2022-10-14T16:00:00+00:00",
         "Consumption": 0.05,
-        "PricePrediction": null
+        "PricePrediction": 18.240028
     },
     {
         "Price": 30.481,
@@ -83957,7 +83957,7 @@
         "Year": 2022,
         "Datetime": "2022-10-14T17:00:00+00:00",
         "Consumption": 0.28,
-        "PricePrediction": null
+        "PricePrediction": 18.261436
     },
     {
         "Price": 22.389,
@@ -83967,7 +83967,7 @@
         "Year": 2022,
         "Datetime": "2022-10-14T18:00:00+00:00",
         "Consumption": 0.27,
-        "PricePrediction": null
+        "PricePrediction": 11.799954
     },
     {
         "Price": 21.794,
@@ -83977,7 +83977,7 @@
         "Year": 2022,
         "Datetime": "2022-10-14T19:00:00+00:00",
         "Consumption": 0.1,
-        "PricePrediction": null
+        "PricePrediction": 10.17426
     },
     {
         "Price": 17.999000000000002,
@@ -83987,7 +83987,7 @@
         "Year": 2022,
         "Datetime": "2022-10-14T20:00:00+00:00",
         "Consumption": 0.04,
-        "PricePrediction": null
+        "PricePrediction": 8.95287
     },
     {
         "Price": 11.643,
@@ -83997,7 +83997,7 @@
         "Year": 2022,
         "Datetime": "2022-10-14T21:00:00+00:00",
         "Consumption": 0.12,
-        "PricePrediction": null
+        "PricePrediction": 6.7132015
     },
     {
         "Price": 2.306,
@@ -84007,7 +84007,7 @@
         "Year": 2022,
         "Datetime": "2022-10-14T22:00:00+00:00",
         "Consumption": 0.08,
-        "PricePrediction": null
+        "PricePrediction": 4.006592
     },
     {
         "Price": 2.303,
@@ -84017,7 +84017,7 @@
         "Year": 2022,
         "Datetime": "2022-10-14T23:00:00+00:00",
         "Consumption": 0.03,
-        "PricePrediction": null
+        "PricePrediction": 2.8877761
     },
     {
         "Price": 1.99,
@@ -84027,7 +84027,7 @@
         "Year": 2022,
         "Datetime": "2022-10-15T00:00:00+00:00",
         "Consumption": 0.1,
-        "PricePrediction": null
+        "PricePrediction": 1.4075577
     },
     {
         "Price": 1.884,
@@ -84037,7 +84037,7 @@
         "Year": 2022,
         "Datetime": "2022-10-15T01:00:00+00:00",
         "Consumption": 0.09,
-        "PricePrediction": null
+        "PricePrediction": 1.5758711
     },
     {
         "Price": 1.825,
@@ -84047,7 +84047,7 @@
         "Year": 2022,
         "Datetime": "2022-10-15T02:00:00+00:00",
         "Consumption": 0.02,
-        "PricePrediction": null
+        "PricePrediction": 1.1706644
     },
     {
         "Price": 2.483,
@@ -84057,7 +84057,7 @@
         "Year": 2022,
         "Datetime": "2022-10-15T03:00:00+00:00",
         "Consumption": 0.08,
-        "PricePrediction": null
+        "PricePrediction": 0.54391897
     },
     {
         "Price": 2.301,
@@ -84067,7 +84067,7 @@
         "Year": 2022,
         "Datetime": "2022-10-15T04:00:00+00:00",
         "Consumption": 0.11,
-        "PricePrediction": null
+        "PricePrediction": 5.1248155
     },
     {
         "Price": 1.839,
@@ -84077,7 +84077,7 @@
         "Year": 2022,
         "Datetime": "2022-10-15T05:00:00+00:00",
         "Consumption": 0.26,
-        "PricePrediction": null
+        "PricePrediction": 5.7042875
     },
     {
         "Price": 2.003,
@@ -84087,7 +84087,7 @@
         "Year": 2022,
         "Datetime": "2022-10-15T06:00:00+00:00",
         "Consumption": 0.19,
-        "PricePrediction": null
+        "PricePrediction": 5.4449844
     },
     {
         "Price": 2.304,
@@ -84097,7 +84097,7 @@
         "Year": 2022,
         "Datetime": "2022-10-15T07:00:00+00:00",
         "Consumption": 0.11,
-        "PricePrediction": null
+        "PricePrediction": 4.1444006
     },
     {
         "Price": 6.406999999999999,
@@ -84107,7 +84107,7 @@
         "Year": 2022,
         "Datetime": "2022-10-15T08:00:00+00:00",
         "Consumption": 0.13,
-        "PricePrediction": null
+        "PricePrediction": 4.1300097
     },
     {
         "Price": 5.485,
@@ -84117,7 +84117,7 @@
         "Year": 2022,
         "Datetime": "2022-10-15T09:00:00+00:00",
         "Consumption": 0.1,
-        "PricePrediction": null
+        "PricePrediction": 2.1769786
     },
     {
         "Price": 4.612,
@@ -84127,7 +84127,7 @@
         "Year": 2022,
         "Datetime": "2022-10-15T10:00:00+00:00",
         "Consumption": 0.06,
-        "PricePrediction": null
+        "PricePrediction": 2.6742258
     },
     {
         "Price": 5.002000000000001,
@@ -84137,7 +84137,7 @@
         "Year": 2022,
         "Datetime": "2022-10-15T11:00:00+00:00",
         "Consumption": 0.04,
-        "PricePrediction": null
+        "PricePrediction": 2.1423635
     },
     {
         "Price": 4.0,
@@ -84147,7 +84147,7 @@
         "Year": 2022,
         "Datetime": "2022-10-15T12:00:00+00:00",
         "Consumption": 0.04,
-        "PricePrediction": null
+        "PricePrediction": 1.9533063
     },
     {
         "Price": 2.305,
@@ -84157,7 +84157,7 @@
         "Year": 2022,
         "Datetime": "2022-10-15T13:00:00+00:00",
         "Consumption": 0.07,
-        "PricePrediction": null
+        "PricePrediction": 2.9753497
     },
     {
         "Price": 4.963,
@@ -84167,7 +84167,7 @@
         "Year": 2022,
         "Datetime": "2022-10-15T14:00:00+00:00",
         "Consumption": 0.08,
-        "PricePrediction": null
+        "PricePrediction": 3.5050755
     },
     {
         "Price": 9.465,
@@ -84177,7 +84177,7 @@
         "Year": 2022,
         "Datetime": "2022-10-15T15:00:00+00:00",
         "Consumption": 0.84,
-        "PricePrediction": null
+        "PricePrediction": 5.766528
     },
     {
         "Price": 13.507,
@@ -84187,7 +84187,7 @@
         "Year": 2022,
         "Datetime": "2022-10-15T16:00:00+00:00",
         "Consumption": 0.28,
-        "PricePrediction": null
+        "PricePrediction": 5.806632
     },
     {
         "Price": 2.472,
@@ -84197,7 +84197,7 @@
         "Year": 2022,
         "Datetime": "2022-10-15T17:00:00+00:00",
         "Consumption": 0.12,
-        "PricePrediction": null
+        "PricePrediction": 3.1377647
     },
     {
         "Price": 1.935,
@@ -84207,7 +84207,7 @@
         "Year": 2022,
         "Datetime": "2022-10-15T18:00:00+00:00",
         "Consumption": 0.02,
-        "PricePrediction": null
+        "PricePrediction": 2.0566616
     },
     {
         "Price": 1.873,
@@ -84217,7 +84217,7 @@
         "Year": 2022,
         "Datetime": "2022-10-15T19:00:00+00:00",
         "Consumption": 0.07,
-        "PricePrediction": null
+        "PricePrediction": 0.41480026
     },
     {
         "Price": 1.658,
@@ -84227,7 +84227,7 @@
         "Year": 2022,
         "Datetime": "2022-10-15T20:00:00+00:00",
         "Consumption": 0.11,
-        "PricePrediction": null
+        "PricePrediction": 0.5912546
     },
     {
         "Price": 1.449,
@@ -84237,7 +84237,7 @@
         "Year": 2022,
         "Datetime": "2022-10-15T21:00:00+00:00",
         "Consumption": 0.13,
-        "PricePrediction": null
+        "PricePrediction": 2.0673597
     },
     {
         "Price": 1.525,
@@ -84247,7 +84247,7 @@
         "Year": 2022,
         "Datetime": "2022-10-15T22:00:00+00:00",
         "Consumption": 0.09,
-        "PricePrediction": null
+        "PricePrediction": 0.40999493
     },
     {
         "Price": 1.5619999999999998,
@@ -84257,7 +84257,7 @@
         "Year": 2022,
         "Datetime": "2022-10-15T23:00:00+00:00",
         "Consumption": 0.11,
-        "PricePrediction": null
+        "PricePrediction": 1.1437088
     },
     {
         "Price": 1.556,
@@ -84267,7 +84267,7 @@
         "Year": 2022,
         "Datetime": "2022-10-16T00:00:00+00:00",
         "Consumption": 0.04,
-        "PricePrediction": null
+        "PricePrediction": 0.4652979
     },
     {
         "Price": 1.6010000000000002,
@@ -84277,7 +84277,7 @@
         "Year": 2022,
         "Datetime": "2022-10-16T01:00:00+00:00",
         "Consumption": 0.06,
-        "PricePrediction": null
+        "PricePrediction": 0.67639273
     },
     {
         "Price": 1.6920000000000002,
@@ -84287,7 +84287,7 @@
         "Year": 2022,
         "Datetime": "2022-10-16T02:00:00+00:00",
         "Consumption": 0.11,
-        "PricePrediction": null
+        "PricePrediction": 0.07886248
     },
     {
         "Price": 1.757,
@@ -84297,7 +84297,7 @@
         "Year": 2022,
         "Datetime": "2022-10-16T03:00:00+00:00",
         "Consumption": 0.05,
-        "PricePrediction": null
+        "PricePrediction": 0.17482994
     },
     {
         "Price": 1.82,
@@ -84307,7 +84307,7 @@
         "Year": 2022,
         "Datetime": "2022-10-16T04:00:00+00:00",
         "Consumption": 0.04,
-        "PricePrediction": null
+        "PricePrediction": 4.832312
     },
     {
         "Price": 1.89,
@@ -84317,7 +84317,7 @@
         "Year": 2022,
         "Datetime": "2022-10-16T05:00:00+00:00",
         "Consumption": 0.11,
-        "PricePrediction": null
+        "PricePrediction": 4.750762
     },
     {
         "Price": 2.098,
@@ -84327,7 +84327,7 @@
         "Year": 2022,
         "Datetime": "2022-10-16T06:00:00+00:00",
         "Consumption": 0.17,
-        "PricePrediction": null
+        "PricePrediction": 5.715845
     },
     {
         "Price": 2.146,
@@ -84337,7 +84337,7 @@
         "Year": 2022,
         "Datetime": "2022-10-16T07:00:00+00:00",
         "Consumption": 0.03,
-        "PricePrediction": null
+        "PricePrediction": 5.4207993
     },
     {
         "Price": 2.096,
@@ -84347,7 +84347,7 @@
         "Year": 2022,
         "Datetime": "2022-10-16T08:00:00+00:00",
         "Consumption": 0.12,
-        "PricePrediction": null
+        "PricePrediction": 4.024579
     },
     {
         "Price": 1.994,
@@ -84357,7 +84357,7 @@
         "Year": 2022,
         "Datetime": "2022-10-16T09:00:00+00:00",
         "Consumption": 0.24,
-        "PricePrediction": null
+        "PricePrediction": 3.4762614
     },
     {
         "Price": 1.824,
@@ -84367,7 +84367,7 @@
         "Year": 2022,
         "Datetime": "2022-10-16T10:00:00+00:00",
         "Consumption": 0.24,
-        "PricePrediction": null
+        "PricePrediction": 0.27823836
     },
     {
         "Price": 1.338,
@@ -84377,7 +84377,7 @@
         "Year": 2022,
         "Datetime": "2022-10-16T11:00:00+00:00",
         "Consumption": 0.28,
-        "PricePrediction": null
+        "PricePrediction": 1.5614059
     },
     {
         "Price": 1.634,
@@ -84387,7 +84387,7 @@
         "Year": 2022,
         "Datetime": "2022-10-16T12:00:00+00:00",
         "Consumption": 0.29,
-        "PricePrediction": null
+        "PricePrediction": 1.5235031
     },
     {
         "Price": 1.719,
@@ -84397,7 +84397,7 @@
         "Year": 2022,
         "Datetime": "2022-10-16T13:00:00+00:00",
         "Consumption": 0.22,
-        "PricePrediction": null
+        "PricePrediction": 0.9551576
     },
     {
         "Price": 1.739,
@@ -84407,7 +84407,7 @@
         "Year": 2022,
         "Datetime": "2022-10-16T14:00:00+00:00",
         "Consumption": 1.19,
-        "PricePrediction": null
+        "PricePrediction": 2.709937
     },
     {
         "Price": 1.894,
@@ -84417,7 +84417,7 @@
         "Year": 2022,
         "Datetime": "2022-10-16T15:00:00+00:00",
         "Consumption": 0.37,
-        "PricePrediction": null
+        "PricePrediction": 3.055119
     },
     {
         "Price": 2.055,
@@ -84427,7 +84427,7 @@
         "Year": 2022,
         "Datetime": "2022-10-16T16:00:00+00:00",
         "Consumption": 0.33,
-        "PricePrediction": null
+        "PricePrediction": 5.0638194
     },
     {
         "Price": 1.954,
@@ -84437,7 +84437,7 @@
         "Year": 2022,
         "Datetime": "2022-10-16T17:00:00+00:00",
         "Consumption": 0.73,
-        "PricePrediction": null
+        "PricePrediction": 6.3859863
     },
     {
         "Price": 1.835,
@@ -84447,7 +84447,7 @@
         "Year": 2022,
         "Datetime": "2022-10-16T18:00:00+00:00",
         "Consumption": 0.2,
-        "PricePrediction": null
+        "PricePrediction": 2.1994324
     },
     {
         "Price": 1.881,
@@ -84457,7 +84457,7 @@
         "Year": 2022,
         "Datetime": "2022-10-16T19:00:00+00:00",
         "Consumption": 0.45,
-        "PricePrediction": null
+        "PricePrediction": 2.4971871
     },
     {
         "Price": 1.769,
@@ -84467,7 +84467,7 @@
         "Year": 2022,
         "Datetime": "2022-10-16T20:00:00+00:00",
         "Consumption": 0.42,
-        "PricePrediction": null
+        "PricePrediction": 0.9769338
     },
     {
         "Price": 1.677,
@@ -84477,7 +84477,7 @@
         "Year": 2022,
         "Datetime": "2022-10-16T21:00:00+00:00",
         "Consumption": 0.11,
-        "PricePrediction": null
+        "PricePrediction": 2.3451939
     },
     {
         "Price": 2.021,
@@ -84487,7 +84487,7 @@
         "Year": 2022,
         "Datetime": "2022-10-16T22:00:00+00:00",
         "Consumption": 0.1,
-        "PricePrediction": null
+        "PricePrediction": 1.4237046
     },
     {
         "Price": 3.999,
@@ -84497,7 +84497,7 @@
         "Year": 2022,
         "Datetime": "2022-10-16T23:00:00+00:00",
         "Consumption": 0.02,
-        "PricePrediction": null
+        "PricePrediction": 0.62381715
     },
     {
         "Price": 3.999,
@@ -84507,7 +84507,7 @@
         "Year": 2022,
         "Datetime": "2022-10-17T00:00:00+00:00",
         "Consumption": 0.1,
-        "PricePrediction": null
+        "PricePrediction": 2.4610772
     },
     {
         "Price": 6.1770000000000005,
@@ -84517,7 +84517,7 @@
         "Year": 2022,
         "Datetime": "2022-10-17T01:00:00+00:00",
         "Consumption": 0.09,
-        "PricePrediction": null
+        "PricePrediction": 0.0020764782
     },
     {
         "Price": 9.466,
@@ -84527,7 +84527,7 @@
         "Year": 2022,
         "Datetime": "2022-10-17T02:00:00+00:00",
         "Consumption": 0.03,
-        "PricePrediction": null
+        "PricePrediction": 4.1140323
     },
     {
         "Price": 13.007,
@@ -84537,7 +84537,7 @@
         "Year": 2022,
         "Datetime": "2022-10-17T03:00:00+00:00",
         "Consumption": 0.1,
-        "PricePrediction": null
+        "PricePrediction": -0.25822046
     },
     {
         "Price": 13.826,
@@ -84547,7 +84547,7 @@
         "Year": 2022,
         "Datetime": "2022-10-17T04:00:00+00:00",
         "Consumption": 0.09,
-        "PricePrediction": null
+        "PricePrediction": 1.3291056
     },
     {
         "Price": 12.56,
@@ -84557,7 +84557,7 @@
         "Year": 2022,
         "Datetime": "2022-10-17T05:00:00+00:00",
         "Consumption": 0.03,
-        "PricePrediction": null
+        "PricePrediction": -0.9294685
     },
     {
         "Price": 16.924,
@@ -84567,7 +84567,7 @@
         "Year": 2022,
         "Datetime": "2022-10-17T06:00:00+00:00",
         "Consumption": 0.36,
-        "PricePrediction": null
+        "PricePrediction": 0.7795614
     },
     {
         "Price": 15.626,
@@ -84577,7 +84577,7 @@
         "Year": 2022,
         "Datetime": "2022-10-17T07:00:00+00:00",
         "Consumption": 0.31,
-        "PricePrediction": null
+        "PricePrediction": 5.6265326
     },
     {
         "Price": 12.524,
@@ -84587,7 +84587,7 @@
         "Year": 2022,
         "Datetime": "2022-10-17T08:00:00+00:00",
         "Consumption": 0.22,
-        "PricePrediction": null
+        "PricePrediction": 5.609938
     },
     {
         "Price": 12.892,
@@ -84597,7 +84597,7 @@
         "Year": 2022,
         "Datetime": "2022-10-17T09:00:00+00:00",
         "Consumption": 0.14,
-        "PricePrediction": null
+        "PricePrediction": 6.109735
     },
     {
         "Price": 11.749,
@@ -84607,7 +84607,7 @@
         "Year": 2022,
         "Datetime": "2022-10-17T10:00:00+00:00",
         "Consumption": 0.22,
-        "PricePrediction": null
+        "PricePrediction": 2.5053666
     },
     {
         "Price": 11.503,
@@ -84617,7 +84617,7 @@
         "Year": 2022,
         "Datetime": "2022-10-17T11:00:00+00:00",
         "Consumption": 0.25,
-        "PricePrediction": null
+        "PricePrediction": 2.5632284
     },
     {
         "Price": 12.031,
@@ -84627,7 +84627,7 @@
         "Year": 2022,
         "Datetime": "2022-10-17T12:00:00+00:00",
         "Consumption": 1.25,
-        "PricePrediction": null
+        "PricePrediction": 2.856066
     },
     {
         "Price": 13.603,
@@ -84637,7 +84637,7 @@
         "Year": 2022,
         "Datetime": "2022-10-17T13:00:00+00:00",
         "Consumption": 0.1,
-        "PricePrediction": null
+        "PricePrediction": 7.368765
     },
     {
         "Price": 14.837,
@@ -84647,7 +84647,7 @@
         "Year": 2022,
         "Datetime": "2022-10-17T14:00:00+00:00",
         "Consumption": 0.22,
-        "PricePrediction": null
+        "PricePrediction": 7.3135605
     },
     {
         "Price": 13.769,
@@ -84657,7 +84657,7 @@
         "Year": 2022,
         "Datetime": "2022-10-17T15:00:00+00:00",
         "Consumption": 0.26,
-        "PricePrediction": null
+        "PricePrediction": 7.0609565
     },
     {
         "Price": 15.482,
@@ -84667,7 +84667,7 @@
         "Year": 2022,
         "Datetime": "2022-10-17T16:00:00+00:00",
         "Consumption": 0.37,
-        "PricePrediction": null
+        "PricePrediction": 5.3111944
     },
     {
         "Price": 12.142,
@@ -84677,7 +84677,7 @@
         "Year": 2022,
         "Datetime": "2022-10-17T17:00:00+00:00",
         "Consumption": 0.23,
-        "PricePrediction": null
+        "PricePrediction": 5.370862
     },
     {
         "Price": 3.999,
@@ -84687,7 +84687,7 @@
         "Year": 2022,
         "Datetime": "2022-10-17T18:00:00+00:00",
         "Consumption": 0.24,
-        "PricePrediction": null
+        "PricePrediction": 4.859125
     },
     {
         "Price": 6.001,
@@ -84697,7 +84697,7 @@
         "Year": 2022,
         "Datetime": "2022-10-17T19:00:00+00:00",
         "Consumption": 0.35,
-        "PricePrediction": null
+        "PricePrediction": 4.0531516
     },
     {
         "Price": 8.671,
@@ -84707,7 +84707,7 @@
         "Year": 2022,
         "Datetime": "2022-10-17T20:00:00+00:00",
         "Consumption": 0.21,
-        "PricePrediction": null
+        "PricePrediction": 2.0252466
     },
     {
         "Price": 5.001,
@@ -84717,7 +84717,7 @@
         "Year": 2022,
         "Datetime": "2022-10-17T21:00:00+00:00",
         "Consumption": 0.34,
-        "PricePrediction": null
+        "PricePrediction": 5.9011326
     },
     {
         "Price": 2.424,
@@ -84727,7 +84727,7 @@
         "Year": 2022,
         "Datetime": "2022-10-17T22:00:00+00:00",
         "Consumption": 0.09,
-        "PricePrediction": null
+        "PricePrediction": 4.1066856
     },
     {
         "Price": 6.2700000000000005,
@@ -84737,7 +84737,7 @@
         "Year": 2022,
         "Datetime": "2022-10-17T23:00:00+00:00",
         "Consumption": 0.03,
-        "PricePrediction": null
+        "PricePrediction": 5.23964
     },
     {
         "Price": 9.559,
@@ -84747,7 +84747,7 @@
         "Year": 2022,
         "Datetime": "2022-10-18T00:00:00+00:00",
         "Consumption": 0.11,
-        "PricePrediction": null
+        "PricePrediction": -0.58774614
     },
     {
         "Price": 9.788,
@@ -84757,7 +84757,7 @@
         "Year": 2022,
         "Datetime": "2022-10-18T01:00:00+00:00",
         "Consumption": 0.11,
-        "PricePrediction": null
+        "PricePrediction": 1.2906626
     },
     {
         "Price": 11.544,
@@ -84767,7 +84767,7 @@
         "Year": 2022,
         "Datetime": "2022-10-18T02:00:00+00:00",
         "Consumption": 0.03,
-        "PricePrediction": null
+        "PricePrediction": 3.1265516
     },
     {
         "Price": 16.179,
@@ -84777,7 +84777,7 @@
         "Year": 2022,
         "Datetime": "2022-10-18T03:00:00+00:00",
         "Consumption": 0.08,
-        "PricePrediction": null
+        "PricePrediction": 16.786736
     },
     {
         "Price": 18.237,
@@ -84787,7 +84787,7 @@
         "Year": 2022,
         "Datetime": "2022-10-18T04:00:00+00:00",
         "Consumption": 0.19,
-        "PricePrediction": null
+        "PricePrediction": 19.361158
     },
     {
         "Price": 20.81,
@@ -84797,7 +84797,7 @@
         "Year": 2022,
         "Datetime": "2022-10-18T05:00:00+00:00",
         "Consumption": 0.44,
-        "PricePrediction": null
+        "PricePrediction": 18.963882
     },
     {
         "Price": 22.647,
@@ -84807,7 +84807,7 @@
         "Year": 2022,
         "Datetime": "2022-10-18T06:00:00+00:00",
         "Consumption": 0.25,
-        "PricePrediction": null
+        "PricePrediction": 21.728304
     },
     {
         "Price": 20.564,
@@ -84817,7 +84817,7 @@
         "Year": 2022,
         "Datetime": "2022-10-18T07:00:00+00:00",
         "Consumption": 0.24,
-        "PricePrediction": null
+        "PricePrediction": 23.696968
     },
     {
         "Price": 20.238,
@@ -84827,7 +84827,7 @@
         "Year": 2022,
         "Datetime": "2022-10-18T08:00:00+00:00",
         "Consumption": 0.17,
-        "PricePrediction": null
+        "PricePrediction": 17.24917
     },
     {
         "Price": 18.036,
@@ -84837,7 +84837,7 @@
         "Year": 2022,
         "Datetime": "2022-10-18T09:00:00+00:00",
         "Consumption": 0.18,
-        "PricePrediction": null
+        "PricePrediction": 14.05997
     },
     {
         "Price": 16.791999999999998,
@@ -84847,7 +84847,7 @@
         "Year": 2022,
         "Datetime": "2022-10-18T10:00:00+00:00",
         "Consumption": 0.23,
-        "PricePrediction": null
+        "PricePrediction": 13.248617
     },
     {
         "Price": 15.405,
@@ -84857,7 +84857,7 @@
         "Year": 2022,
         "Datetime": "2022-10-18T11:00:00+00:00",
         "Consumption": 0.29,
-        "PricePrediction": null
+        "PricePrediction": 4.674205
     },
     {
         "Price": 15.255,
@@ -84867,7 +84867,7 @@
         "Year": 2022,
         "Datetime": "2022-10-18T12:00:00+00:00",
         "Consumption": 0.06,
-        "PricePrediction": null
+        "PricePrediction": 4.7025113
     },
     {
         "Price": 17.619999999999997,
@@ -84877,7 +84877,7 @@
         "Year": 2022,
         "Datetime": "2022-10-18T13:00:00+00:00",
         "Consumption": 0.99,
-        "PricePrediction": null
+        "PricePrediction": 7.335092
     },
     {
         "Price": 13.0,
@@ -84887,7 +84887,7 @@
         "Year": 2022,
         "Datetime": "2022-10-18T14:00:00+00:00",
         "Consumption": 0.77,
-        "PricePrediction": null
+        "PricePrediction": 4.241399
     },
     {
         "Price": 11.991,
@@ -84897,7 +84897,7 @@
         "Year": 2022,
         "Datetime": "2022-10-18T15:00:00+00:00",
         "Consumption": 0.23,
-        "PricePrediction": null
+        "PricePrediction": 6.2556243
     },
     {
         "Price": 15.04,
@@ -84907,7 +84907,7 @@
         "Year": 2022,
         "Datetime": "2022-10-18T16:00:00+00:00",
         "Consumption": 0.2,
-        "PricePrediction": null
+        "PricePrediction": 8.485857
     },
     {
         "Price": 12.451,
@@ -84917,7 +84917,7 @@
         "Year": 2022,
         "Datetime": "2022-10-18T17:00:00+00:00",
         "Consumption": 0.26,
-        "PricePrediction": null
+        "PricePrediction": 5.6582456
     },
     {
         "Price": 7.0,
@@ -84927,7 +84927,7 @@
         "Year": 2022,
         "Datetime": "2022-10-18T18:00:00+00:00",
         "Consumption": 0.48,
-        "PricePrediction": null
+        "PricePrediction": 5.778048
     },
     {
         "Price": 8.174,
@@ -84937,7 +84937,7 @@
         "Year": 2022,
         "Datetime": "2022-10-18T19:00:00+00:00",
         "Consumption": 0.15,
-        "PricePrediction": null
+        "PricePrediction": 6.0391264
     },
     {
         "Price": 6.083,
@@ -84947,7 +84947,7 @@
         "Year": 2022,
         "Datetime": "2022-10-18T20:00:00+00:00",
         "Consumption": 0.4,
-        "PricePrediction": null
+        "PricePrediction": 3.9541812
     },
     {
         "Price": 1.599,
@@ -84957,7 +84957,7 @@
         "Year": 2022,
         "Datetime": "2022-10-18T21:00:00+00:00",
         "Consumption": 0.08,
-        "PricePrediction": null
+        "PricePrediction": 6.7204504
     },
     {
         "Price": 1.6,
@@ -84967,7 +84967,7 @@
         "Year": 2022,
         "Datetime": "2022-10-18T22:00:00+00:00",
         "Consumption": 0.11,
-        "PricePrediction": null
+        "PricePrediction": 2.8598683
     },
     {
         "Price": 1.5710000000000002,
@@ -84977,7 +84977,7 @@
         "Year": 2022,
         "Datetime": "2022-10-18T23:00:00+00:00",
         "Consumption": 0.03,
-        "PricePrediction": null
+        "PricePrediction": 2.5504854
     },
     {
         "Price": 1.576,
@@ -84987,7 +84987,7 @@
         "Year": 2022,
         "Datetime": "2022-10-19T00:00:00+00:00",
         "Consumption": 0.07,
-        "PricePrediction": null
+        "PricePrediction": 1.0691621
     },
     {
         "Price": 1.604,
@@ -84997,7 +84997,7 @@
         "Year": 2022,
         "Datetime": "2022-10-19T01:00:00+00:00",
         "Consumption": 0.11,
-        "PricePrediction": null
+        "PricePrediction": 1.0233208
     },
     {
         "Price": 6.319,
@@ -85007,7 +85007,7 @@
         "Year": 2022,
         "Datetime": "2022-10-19T02:00:00+00:00",
         "Consumption": 0.02,
-        "PricePrediction": null
+        "PricePrediction": 2.1166277
     },
     {
         "Price": 10.281,
@@ -85017,7 +85017,7 @@
         "Year": 2022,
         "Datetime": "2022-10-19T03:00:00+00:00",
         "Consumption": 0.09,
-        "PricePrediction": null
+        "PricePrediction": 2.5659776
     },
     {
         "Price": 15.686000000000002,
@@ -85027,7 +85027,7 @@
         "Year": 2022,
         "Datetime": "2022-10-19T04:00:00+00:00",
         "Consumption": 0.44,
-        "PricePrediction": null
+        "PricePrediction": 9.952544
     },
     {
         "Price": 18.54,
@@ -85037,7 +85037,7 @@
         "Year": 2022,
         "Datetime": "2022-10-19T05:00:00+00:00",
         "Consumption": 0.3,
-        "PricePrediction": null
+        "PricePrediction": 12.924137
     },
     {
         "Price": 19.96,
@@ -85047,7 +85047,7 @@
         "Year": 2022,
         "Datetime": "2022-10-19T06:00:00+00:00",
         "Consumption": 0.28,
-        "PricePrediction": null
+        "PricePrediction": 11.81293
     },
     {
         "Price": 19.505000000000003,
@@ -85057,7 +85057,7 @@
         "Year": 2022,
         "Datetime": "2022-10-19T07:00:00+00:00",
         "Consumption": 0.33,
-        "PricePrediction": null
+        "PricePrediction": 19.61217
     },
     {
         "Price": 18.316,
@@ -85067,7 +85067,7 @@
         "Year": 2022,
         "Datetime": "2022-10-19T08:00:00+00:00",
         "Consumption": 0.1,
-        "PricePrediction": null
+        "PricePrediction": 15.839869
     },
     {
         "Price": 17.424,
@@ -85077,7 +85077,7 @@
         "Year": 2022,
         "Datetime": "2022-10-19T09:00:00+00:00",
         "Consumption": 0.22,
-        "PricePrediction": null
+        "PricePrediction": 8.921351
     },
     {
         "Price": 15.866,
@@ -85087,7 +85087,7 @@
         "Year": 2022,
         "Datetime": "2022-10-19T10:00:00+00:00",
         "Consumption": 0.26,
-        "PricePrediction": null
+        "PricePrediction": 8.52779
     },
     {
         "Price": 14.856,
@@ -85097,7 +85097,7 @@
         "Year": 2022,
         "Datetime": "2022-10-19T11:00:00+00:00",
         "Consumption": 0.11,
-        "PricePrediction": null
+        "PricePrediction": 7.9602237
     },
     {
         "Price": 14.343,
@@ -85107,7 +85107,7 @@
         "Year": 2022,
         "Datetime": "2022-10-19T12:00:00+00:00",
         "Consumption": 0.13,
-        "PricePrediction": null
+        "PricePrediction": 7.513077
     },
     {
         "Price": 14.763,
@@ -85117,7 +85117,7 @@
         "Year": 2022,
         "Datetime": "2022-10-19T13:00:00+00:00",
         "Consumption": 0.16,
-        "PricePrediction": null
+        "PricePrediction": 8.044312
     },
     {
         "Price": 16.487000000000002,
@@ -85127,7 +85127,7 @@
         "Year": 2022,
         "Datetime": "2022-10-19T14:00:00+00:00",
         "Consumption": 0.03,
-        "PricePrediction": null
+        "PricePrediction": 8.109446
     },
     {
         "Price": 17.999000000000002,
@@ -85137,7 +85137,7 @@
         "Year": 2022,
         "Datetime": "2022-10-19T15:00:00+00:00",
         "Consumption": 0.07,
-        "PricePrediction": null
+        "PricePrediction": 8.604059
     },
     {
         "Price": 17.672,
@@ -85147,7 +85147,7 @@
         "Year": 2022,
         "Datetime": "2022-10-19T16:00:00+00:00",
         "Consumption": 0.25,
-        "PricePrediction": null
+        "PricePrediction": 7.692979
     },
     {
         "Price": 16.875999999999998,
@@ -85157,7 +85157,7 @@
         "Year": 2022,
         "Datetime": "2022-10-19T17:00:00+00:00",
         "Consumption": 0.26,
-        "PricePrediction": null
+        "PricePrediction": 6.629789
     },
     {
         "Price": 15.727,
@@ -85167,7 +85167,7 @@
         "Year": 2022,
         "Datetime": "2022-10-19T18:00:00+00:00",
         "Consumption": 0.21,
-        "PricePrediction": null
+        "PricePrediction": 4.4868455
     },
     {
         "Price": 14.294,
@@ -85177,7 +85177,7 @@
         "Year": 2022,
         "Datetime": "2022-10-19T19:00:00+00:00",
         "Consumption": 0.12,
-        "PricePrediction": null
+        "PricePrediction": 7.4838657
     },
     {
         "Price": 8.675,
@@ -85187,7 +85187,7 @@
         "Year": 2022,
         "Datetime": "2022-10-19T20:00:00+00:00",
         "Consumption": 0.04,
-        "PricePrediction": null
+        "PricePrediction": 10.698119
     },
     {
         "Price": 1.972,
@@ -85197,7 +85197,7 @@
         "Year": 2022,
         "Datetime": "2022-10-19T21:00:00+00:00",
         "Consumption": 0.07,
-        "PricePrediction": null
+        "PricePrediction": 7.7804704
     },
     {
         "Price": 2.308,
@@ -85207,7 +85207,7 @@
         "Year": 2022,
         "Datetime": "2022-10-19T22:00:00+00:00",
         "Consumption": 0.12,
-        "PricePrediction": null
+        "PricePrediction": 5.366137
     },
     {
         "Price": 2.294,
@@ -85217,7 +85217,7 @@
         "Year": 2022,
         "Datetime": "2022-10-19T23:00:00+00:00",
         "Consumption": 0.02,
-        "PricePrediction": null
+        "PricePrediction": 5.6437364
     },
     {
         "Price": 2.476,
@@ -85227,7 +85227,7 @@
         "Year": 2022,
         "Datetime": "2022-10-20T00:00:00+00:00",
         "Consumption": 0.08,
-        "PricePrediction": null
+        "PricePrediction": 6.605663
     },
     {
         "Price": 2.627,
@@ -85237,7 +85237,7 @@
         "Year": 2022,
         "Datetime": "2022-10-20T01:00:00+00:00",
         "Consumption": 0.11,
-        "PricePrediction": null
+        "PricePrediction": 6.3281245
     },
     {
         "Price": 8.166,
@@ -85247,7 +85247,7 @@
         "Year": 2022,
         "Datetime": "2022-10-20T02:00:00+00:00",
         "Consumption": 0.11,
-        "PricePrediction": null
+        "PricePrediction": 6.770855
     },
     {
         "Price": 14.99,
@@ -85257,7 +85257,7 @@
         "Year": 2022,
         "Datetime": "2022-10-20T03:00:00+00:00",
         "Consumption": 0.14,
-        "PricePrediction": null
+        "PricePrediction": 1.7879815
     },
     {
         "Price": 19.138,
@@ -85267,7 +85267,7 @@
         "Year": 2022,
         "Datetime": "2022-10-20T04:00:00+00:00",
         "Consumption": 0.07,
-        "PricePrediction": null
+        "PricePrediction": 12.813442
     },
     {
         "Price": 29.133,
@@ -85277,7 +85277,7 @@
         "Year": 2022,
         "Datetime": "2022-10-20T05:00:00+00:00",
         "Consumption": 0.15,
-        "PricePrediction": null
+        "PricePrediction": 20.516901
     },
     {
         "Price": 31.285000000000004,
@@ -85287,7 +85287,7 @@
         "Year": 2022,
         "Datetime": "2022-10-20T06:00:00+00:00",
         "Consumption": 0.36,
-        "PricePrediction": null
+        "PricePrediction": 24.638243
     },
     {
         "Price": 32.995999999999995,
@@ -85297,7 +85297,7 @@
         "Year": 2022,
         "Datetime": "2022-10-20T07:00:00+00:00",
         "Consumption": 0.23,
-        "PricePrediction": null
+        "PricePrediction": 25.87238
     },
     {
         "Price": 28.007,
@@ -85307,7 +85307,7 @@
         "Year": 2022,
         "Datetime": "2022-10-20T08:00:00+00:00",
         "Consumption": 0.16,
-        "PricePrediction": null
+        "PricePrediction": 29.91307
     },
     {
         "Price": 24.746,
@@ -85317,7 +85317,7 @@
         "Year": 2022,
         "Datetime": "2022-10-20T09:00:00+00:00",
         "Consumption": 0.13,
-        "PricePrediction": null
+        "PricePrediction": 21.983112
     },
     {
         "Price": 24.927,
@@ -85327,7 +85327,7 @@
         "Year": 2022,
         "Datetime": "2022-10-20T10:00:00+00:00",
         "Consumption": 0.03,
-        "PricePrediction": null
+        "PricePrediction": 19.248909
     },
     {
         "Price": 23.149,
@@ -85337,7 +85337,7 @@
         "Year": 2022,
         "Datetime": "2022-10-20T11:00:00+00:00",
         "Consumption": 0.19,
-        "PricePrediction": null
+        "PricePrediction": 18.993284
     },
     {
         "Price": 22.103,
@@ -85347,7 +85347,7 @@
         "Year": 2022,
         "Datetime": "2022-10-20T12:00:00+00:00",
         "Consumption": 0.24,
-        "PricePrediction": null
+        "PricePrediction": 17.976305
     },
     {
         "Price": 21.48,
@@ -85357,7 +85357,7 @@
         "Year": 2022,
         "Datetime": "2022-10-20T13:00:00+00:00",
         "Consumption": 1.14,
-        "PricePrediction": null
+        "PricePrediction": 16.075855
     },
     {
         "Price": 19.827,
@@ -85367,7 +85367,7 @@
         "Year": 2022,
         "Datetime": "2022-10-20T14:00:00+00:00",
         "Consumption": 0.28,
-        "PricePrediction": null
+        "PricePrediction": 18.653654
     },
     {
         "Price": 26.912,
@@ -85377,7 +85377,7 @@
         "Year": 2022,
         "Datetime": "2022-10-20T15:00:00+00:00",
         "Consumption": 0.23,
-        "PricePrediction": null
+        "PricePrediction": 20.20978
     },
     {
         "Price": 29.999,
@@ -85387,7 +85387,7 @@
         "Year": 2022,
         "Datetime": "2022-10-20T16:00:00+00:00",
         "Consumption": 0.2,
-        "PricePrediction": null
+        "PricePrediction": 22.31252
     },
     {
         "Price": 20.871,
@@ -85397,7 +85397,7 @@
         "Year": 2022,
         "Datetime": "2022-10-20T17:00:00+00:00",
         "Consumption": 0.25,
-        "PricePrediction": null
+        "PricePrediction": 21.460043
     },
     {
         "Price": 17.869999999999997,
@@ -85407,7 +85407,7 @@
         "Year": 2022,
         "Datetime": "2022-10-20T18:00:00+00:00",
         "Consumption": 0.29,
-        "PricePrediction": null
+        "PricePrediction": 22.608149
     },
     {
         "Price": 19.502,
@@ -85417,7 +85417,7 @@
         "Year": 2022,
         "Datetime": "2022-10-20T19:00:00+00:00",
         "Consumption": 0.45,
-        "PricePrediction": null
+        "PricePrediction": 22.95285
     },
     {
         "Price": 19.94,
@@ -85427,7 +85427,7 @@
         "Year": 2022,
         "Datetime": "2022-10-20T20:00:00+00:00",
         "Consumption": 0.08,
-        "PricePrediction": null
+        "PricePrediction": 14.688015
     },
     {
         "Price": 16.799,
@@ -85437,7 +85437,7 @@
         "Year": 2022,
         "Datetime": "2022-10-20T21:00:00+00:00",
         "Consumption": 0.49,
-        "PricePrediction": null
+        "PricePrediction": 9.514624
     },
     {
         "Price": 16.397,
@@ -85447,7 +85447,7 @@
         "Year": 2022,
         "Datetime": "2022-10-20T22:00:00+00:00",
         "Consumption": 0.08,
-        "PricePrediction": null
+        "PricePrediction": 13.141491
     },
     {
         "Price": 14.588,
@@ -85457,7 +85457,7 @@
         "Year": 2022,
         "Datetime": "2022-10-20T23:00:00+00:00",
         "Consumption": 0.04,
-        "PricePrediction": null
+        "PricePrediction": 14.495287
     },
     {
         "Price": 13.342,
@@ -85467,7 +85467,7 @@
         "Year": 2022,
         "Datetime": "2022-10-21T00:00:00+00:00",
         "Consumption": 0.11,
-        "PricePrediction": null
+        "PricePrediction": 5.4861026
     },
     {
         "Price": 12.999,
@@ -85477,7 +85477,7 @@
         "Year": 2022,
         "Datetime": "2022-10-21T01:00:00+00:00",
         "Consumption": 0.07,
-        "PricePrediction": null
+        "PricePrediction": 4.498596
     },
     {
         "Price": 13.472,
@@ -85487,7 +85487,7 @@
         "Year": 2022,
         "Datetime": "2022-10-21T02:00:00+00:00",
         "Consumption": 0.03,
-        "PricePrediction": null
+        "PricePrediction": 6.3518057
     },
     {
         "Price": 19.169,
@@ -85497,7 +85497,7 @@
         "Year": 2022,
         "Datetime": "2022-10-21T03:00:00+00:00",
         "Consumption": 0.12,
-        "PricePrediction": null
+        "PricePrediction": 20.878216
     },
     {
         "Price": 26.98,
@@ -85507,7 +85507,7 @@
         "Year": 2022,
         "Datetime": "2022-10-21T04:00:00+00:00",
         "Consumption": 0.22,
-        "PricePrediction": null
+        "PricePrediction": 14.750145
     },
     {
         "Price": 33.202,
@@ -85517,7 +85517,7 @@
         "Year": 2022,
         "Datetime": "2022-10-21T05:00:00+00:00",
         "Consumption": 0.94,
-        "PricePrediction": null
+        "PricePrediction": 9.7682085
     },
     {
         "Price": 33.102,
@@ -85527,7 +85527,7 @@
         "Year": 2022,
         "Datetime": "2022-10-21T06:00:00+00:00",
         "Consumption": 0.3,
-        "PricePrediction": null
+        "PricePrediction": 8.191647
     },
     {
         "Price": 27.298,
@@ -85537,7 +85537,7 @@
         "Year": 2022,
         "Datetime": "2022-10-21T07:00:00+00:00",
         "Consumption": 0.17,
-        "PricePrediction": null
+        "PricePrediction": 7.2080007
     },
     {
         "Price": 33.206,
@@ -85547,7 +85547,7 @@
         "Year": 2022,
         "Datetime": "2022-10-21T08:00:00+00:00",
         "Consumption": 0.18,
-        "PricePrediction": null
+        "PricePrediction": 4.337418
     },
     {
         "Price": 33.653,
@@ -85557,7 +85557,7 @@
         "Year": 2022,
         "Datetime": "2022-10-21T09:00:00+00:00",
         "Consumption": 0.12,
-        "PricePrediction": null
+        "PricePrediction": 14.630546
     },
     {
         "Price": 33.65,
@@ -85567,7 +85567,7 @@
         "Year": 2022,
         "Datetime": "2022-10-21T10:00:00+00:00",
         "Consumption": 0.04,
-        "PricePrediction": null
+        "PricePrediction": 15.57934
     },
     {
         "Price": 33.204,
@@ -85577,7 +85577,7 @@
         "Year": 2022,
         "Datetime": "2022-10-21T11:00:00+00:00",
         "Consumption": 0.06,
-        "PricePrediction": null
+        "PricePrediction": 17.81564
     },
     {
         "Price": 33.652,
@@ -85587,7 +85587,7 @@
         "Year": 2022,
         "Datetime": "2022-10-21T12:00:00+00:00",
         "Consumption": 0.1,
-        "PricePrediction": null
+        "PricePrediction": 18.160313
     },
     {
         "Price": 33.204,
@@ -85597,7 +85597,7 @@
         "Year": 2022,
         "Datetime": "2022-10-21T13:00:00+00:00",
         "Consumption": 0.1,
-        "PricePrediction": null
+        "PricePrediction": 16.338299
     },
     {
         "Price": 32.995,
@@ -85607,7 +85607,7 @@
         "Year": 2022,
         "Datetime": "2022-10-21T14:00:00+00:00",
         "Consumption": 0.2,
-        "PricePrediction": null
+        "PricePrediction": 16.793562
     },
     {
         "Price": 26.975,
@@ -85617,7 +85617,7 @@
         "Year": 2022,
         "Datetime": "2022-10-21T15:00:00+00:00",
         "Consumption": 0.21,
-        "PricePrediction": null
+        "PricePrediction": 24.161242
     },
     {
         "Price": 29.021,
@@ -85627,7 +85627,7 @@
         "Year": 2022,
         "Datetime": "2022-10-21T16:00:00+00:00",
         "Consumption": 0.07,
-        "PricePrediction": null
+        "PricePrediction": 27.41133
     },
     {
         "Price": 27.585,
@@ -85637,7 +85637,7 @@
         "Year": 2022,
         "Datetime": "2022-10-21T17:00:00+00:00",
         "Consumption": 0.32,
-        "PricePrediction": null
+        "PricePrediction": 23.092777
     },
     {
         "Price": 23.647,
@@ -85647,7 +85647,7 @@
         "Year": 2022,
         "Datetime": "2022-10-21T18:00:00+00:00",
         "Consumption": 0.28,
-        "PricePrediction": null
+        "PricePrediction": 14.703173
     },
     {
         "Price": 20.801,
@@ -85657,7 +85657,7 @@
         "Year": 2022,
         "Datetime": "2022-10-21T19:00:00+00:00",
         "Consumption": 0.07,
-        "PricePrediction": null
+        "PricePrediction": 13.270156
     },
     {
         "Price": 17.744999999999997,
@@ -85667,7 +85667,7 @@
         "Year": 2022,
         "Datetime": "2022-10-21T20:00:00+00:00",
         "Consumption": 0.04,
-        "PricePrediction": null
+        "PricePrediction": 14.65763
     },
     {
         "Price": 12.999,
@@ -85677,7 +85677,7 @@
         "Year": 2022,
         "Datetime": "2022-10-21T21:00:00+00:00",
         "Consumption": 0.12,
-        "PricePrediction": null
+        "PricePrediction": 7.151377
     },
     {
         "Price": 11.371,
@@ -85687,7 +85687,7 @@
         "Year": 2022,
         "Datetime": "2022-10-21T22:00:00+00:00",
         "Consumption": 0.06,
-        "PricePrediction": null
+        "PricePrediction": 6.803048
     },
     {
         "Price": 9.999,
@@ -85697,7 +85697,7 @@
         "Year": 2022,
         "Datetime": "2022-10-21T23:00:00+00:00",
         "Consumption": 0.04,
-        "PricePrediction": null
+        "PricePrediction": 10.207653
     },
     {
         "Price": 10.498,
@@ -85707,7 +85707,7 @@
         "Year": 2022,
         "Datetime": "2022-10-22T00:00:00+00:00",
         "Consumption": 0.12,
-        "PricePrediction": null
+        "PricePrediction": 9.091252
     },
     {
         "Price": 10.089,
@@ -85717,7 +85717,7 @@
         "Year": 2022,
         "Datetime": "2022-10-22T01:00:00+00:00",
         "Consumption": 0.11,
-        "PricePrediction": null
+        "PricePrediction": 4.2165184
     },
     {
         "Price": 9.458,
@@ -85727,7 +85727,7 @@
         "Year": 2022,
         "Datetime": "2022-10-22T02:00:00+00:00",
         "Consumption": 0.12,
-        "PricePrediction": null
+        "PricePrediction": 4.1850486
     },
     {
         "Price": 8.531,
@@ -85737,7 +85737,7 @@
         "Year": 2022,
         "Datetime": "2022-10-22T03:00:00+00:00",
         "Consumption": 0.09,
-        "PricePrediction": null
+        "PricePrediction": 4.4907393
     },
     {
         "Price": 9.004000000000001,
@@ -85747,7 +85747,7 @@
         "Year": 2022,
         "Datetime": "2022-10-22T04:00:00+00:00",
         "Consumption": 0.11,
-        "PricePrediction": null
+        "PricePrediction": 8.175011
     },
     {
         "Price": 10.01,
@@ -85757,7 +85757,7 @@
         "Year": 2022,
         "Datetime": "2022-10-22T05:00:00+00:00",
         "Consumption": 0.02,
-        "PricePrediction": null
+        "PricePrediction": 5.5981092
     },
     {
         "Price": 14.083000000000002,
@@ -85767,7 +85767,7 @@
         "Year": 2022,
         "Datetime": "2022-10-22T06:00:00+00:00",
         "Consumption": 1.25,
-        "PricePrediction": null
+        "PricePrediction": 7.8826256
     },
     {
         "Price": 14.211000000000002,
@@ -85777,7 +85777,7 @@
         "Year": 2022,
         "Datetime": "2022-10-22T07:00:00+00:00",
         "Consumption": 0.49,
-        "PricePrediction": null
+        "PricePrediction": 8.758441
     },
     {
         "Price": 14.001,
@@ -85787,7 +85787,7 @@
         "Year": 2022,
         "Datetime": "2022-10-22T08:00:00+00:00",
         "Consumption": 0.9,
-        "PricePrediction": null
+        "PricePrediction": 7.730847
     },
     {
         "Price": 12.769,
@@ -85797,7 +85797,7 @@
         "Year": 2022,
         "Datetime": "2022-10-22T09:00:00+00:00",
         "Consumption": 0.71,
-        "PricePrediction": null
+        "PricePrediction": 7.7438803
     },
     {
         "Price": 9.998,
@@ -85807,7 +85807,7 @@
         "Year": 2022,
         "Datetime": "2022-10-22T10:00:00+00:00",
         "Consumption": 0.27,
-        "PricePrediction": null
+        "PricePrediction": 7.7023983
     },
     {
         "Price": 9.992,
@@ -85817,7 +85817,7 @@
         "Year": 2022,
         "Datetime": "2022-10-22T11:00:00+00:00",
         "Consumption": 0.39,
-        "PricePrediction": null
+        "PricePrediction": 7.188105
     },
     {
         "Price": 8.338,
@@ -85827,7 +85827,7 @@
         "Year": 2022,
         "Datetime": "2022-10-22T12:00:00+00:00",
         "Consumption": 0.1,
-        "PricePrediction": null
+        "PricePrediction": 7.3448925
     },
     {
         "Price": 5.871,
@@ -85837,7 +85837,7 @@
         "Year": 2022,
         "Datetime": "2022-10-22T13:00:00+00:00",
         "Consumption": 0.11,
-        "PricePrediction": null
+        "PricePrediction": 7.7355943
     },
     {
         "Price": 5.086,
@@ -85847,7 +85847,7 @@
         "Year": 2022,
         "Datetime": "2022-10-22T14:00:00+00:00",
         "Consumption": 0.18,
-        "PricePrediction": null
+        "PricePrediction": 9.0428915
     },
     {
         "Price": 9.991,
@@ -85857,7 +85857,7 @@
         "Year": 2022,
         "Datetime": "2022-10-22T15:00:00+00:00",
         "Consumption": 0.5,
-        "PricePrediction": null
+        "PricePrediction": 9.512889
     },
     {
         "Price": 14.0,
@@ -85867,7 +85867,7 @@
         "Year": 2022,
         "Datetime": "2022-10-22T16:00:00+00:00",
         "Consumption": 0.29,
-        "PricePrediction": null
+        "PricePrediction": 11.505028
     },
     {
         "Price": 11.997,
@@ -85877,7 +85877,7 @@
         "Year": 2022,
         "Datetime": "2022-10-22T17:00:00+00:00",
         "Consumption": 0.08,
-        "PricePrediction": null
+        "PricePrediction": 10.175825
     },
     {
         "Price": 8.001000000000001,
@@ -85887,7 +85887,7 @@
         "Year": 2022,
         "Datetime": "2022-10-22T18:00:00+00:00",
         "Consumption": 0.11,
-        "PricePrediction": null
+        "PricePrediction": 3.536389
     },
     {
         "Price": 8.768,
@@ -85897,7 +85897,7 @@
         "Year": 2022,
         "Datetime": "2022-10-22T19:00:00+00:00",
         "Consumption": 0.22,
-        "PricePrediction": null
+        "PricePrediction": 2.8457098
     },
     {
         "Price": 4.518,
@@ -85907,7 +85907,7 @@
         "Year": 2022,
         "Datetime": "2022-10-22T20:00:00+00:00",
         "Consumption": 0.14,
-        "PricePrediction": null
+        "PricePrediction": 9.247171
     },
     {
         "Price": 2.9,
@@ -85917,7 +85917,7 @@
         "Year": 2022,
         "Datetime": "2022-10-22T21:00:00+00:00",
         "Consumption": 0.06,
-        "PricePrediction": null
+        "PricePrediction": 7.4577727
     },
     {
         "Price": 3.329,
@@ -85927,7 +85927,7 @@
         "Year": 2022,
         "Datetime": "2022-10-22T22:00:00+00:00",
         "Consumption": 0.14,
-        "PricePrediction": null
+        "PricePrediction": 2.4355016
     },
     {
         "Price": 3.093,
@@ -85937,7 +85937,7 @@
         "Year": 2022,
         "Datetime": "2022-10-22T23:00:00+00:00",
         "Consumption": 0.07,
-        "PricePrediction": null
+        "PricePrediction": -0.10600479
     },
     {
         "Price": 2.98,
@@ -85947,7 +85947,7 @@
         "Year": 2022,
         "Datetime": "2022-10-23T00:00:00+00:00",
         "Consumption": 0.07,
-        "PricePrediction": null
+        "PricePrediction": 5.0141597
     },
     {
         "Price": 2.867,
@@ -85957,7 +85957,7 @@
         "Year": 2022,
         "Datetime": "2022-10-23T01:00:00+00:00",
         "Consumption": 0.12,
-        "PricePrediction": null
+        "PricePrediction": 5.4236608
     },
     {
         "Price": 3.074,
@@ -85967,7 +85967,7 @@
         "Year": 2022,
         "Datetime": "2022-10-23T02:00:00+00:00",
         "Consumption": 0.05,
-        "PricePrediction": null
+        "PricePrediction": 5.49492
     },
     {
         "Price": 3.773,
@@ -85977,7 +85977,7 @@
         "Year": 2022,
         "Datetime": "2022-10-23T03:00:00+00:00",
         "Consumption": 0.06,
-        "PricePrediction": null
+        "PricePrediction": 4.927216
     },
     {
         "Price": 3.069,
@@ -85987,7 +85987,7 @@
         "Year": 2022,
         "Datetime": "2022-10-23T04:00:00+00:00",
         "Consumption": 0.11,
-        "PricePrediction": null
+        "PricePrediction": 10.113259
     },
     {
         "Price": 3.446,
@@ -85997,7 +85997,7 @@
         "Year": 2022,
         "Datetime": "2022-10-23T05:00:00+00:00",
         "Consumption": 0.06,
-        "PricePrediction": null
+        "PricePrediction": 9.083336
     },
     {
         "Price": 4.747999999999999,
@@ -86007,7 +86007,7 @@
         "Year": 2022,
         "Datetime": "2022-10-23T06:00:00+00:00",
         "Consumption": 0.28,
-        "PricePrediction": null
+        "PricePrediction": 10.474463
     },
     {
         "Price": 5.96,
@@ -86017,7 +86017,7 @@
         "Year": 2022,
         "Datetime": "2022-10-23T07:00:00+00:00",
         "Consumption": 0.26,
-        "PricePrediction": null
+        "PricePrediction": 8.27516
     },
     {
         "Price": 8.58,
@@ -86027,7 +86027,7 @@
         "Year": 2022,
         "Datetime": "2022-10-23T08:00:00+00:00",
         "Consumption": 1.11,
-        "PricePrediction": null
+        "PricePrediction": 7.4952607
     },
     {
         "Price": 9.099,
@@ -86037,7 +86037,7 @@
         "Year": 2022,
         "Datetime": "2022-10-23T09:00:00+00:00",
         "Consumption": 1.77,
-        "PricePrediction": null
+        "PricePrediction": 7.6266265
     },
     {
         "Price": 7.532999999999999,
@@ -86047,7 +86047,7 @@
         "Year": 2022,
         "Datetime": "2022-10-23T10:00:00+00:00",
         "Consumption": 0.38,
-        "PricePrediction": null
+        "PricePrediction": 6.699231
     },
     {
         "Price": 6.449,
@@ -86057,7 +86057,7 @@
         "Year": 2022,
         "Datetime": "2022-10-23T11:00:00+00:00",
         "Consumption": 0.17,
-        "PricePrediction": null
+        "PricePrediction": 7.5327787
     },
     {
         "Price": 6.151,
@@ -86067,7 +86067,7 @@
         "Year": 2022,
         "Datetime": "2022-10-23T12:00:00+00:00",
         "Consumption": 0.59,
-        "PricePrediction": null
+        "PricePrediction": 7.1533813
     },
     {
         "Price": 6.163,
@@ -86077,7 +86077,7 @@
         "Year": 2022,
         "Datetime": "2022-10-23T13:00:00+00:00",
         "Consumption": 0.26,
-        "PricePrediction": null
+        "PricePrediction": 8.773045
     },
     {
         "Price": 8.317,
@@ -86087,7 +86087,7 @@
         "Year": 2022,
         "Datetime": "2022-10-23T14:00:00+00:00",
         "Consumption": 0.38,
-        "PricePrediction": null
+        "PricePrediction": 8.204878
     },
     {
         "Price": 9.237,
@@ -86097,7 +86097,7 @@
         "Year": 2022,
         "Datetime": "2022-10-23T15:00:00+00:00",
         "Consumption": 0.41,
-        "PricePrediction": null
+        "PricePrediction": 13.193065
     },
     {
         "Price": 9.641,
@@ -86107,7 +86107,7 @@
         "Year": 2022,
         "Datetime": "2022-10-23T16:00:00+00:00",
         "Consumption": 1.45,
-        "PricePrediction": null
+        "PricePrediction": 12.095325
     },
     {
         "Price": 8.199,
@@ -86117,7 +86117,7 @@
         "Year": 2022,
         "Datetime": "2022-10-23T17:00:00+00:00",
         "Consumption": 0.33,
-        "PricePrediction": null
+        "PricePrediction": 12.218793
     },
     {
         "Price": 7.098999999999999,
@@ -86127,7 +86127,7 @@
         "Year": 2022,
         "Datetime": "2022-10-23T18:00:00+00:00",
         "Consumption": 0.36,
-        "PricePrediction": null
+        "PricePrediction": 7.338896
     },
     {
         "Price": 8.523,
@@ -86137,7 +86137,7 @@
         "Year": 2022,
         "Datetime": "2022-10-23T19:00:00+00:00",
         "Consumption": 0.35,
-        "PricePrediction": null
+        "PricePrediction": 9.006856
     },
     {
         "Price": 6.112,
@@ -86147,7 +86147,7 @@
         "Year": 2022,
         "Datetime": "2022-10-23T20:00:00+00:00",
         "Consumption": 0.47,
-        "PricePrediction": null
+        "PricePrediction": 9.02185
     },
     {
         "Price": 6.139,
@@ -86157,7 +86157,7 @@
         "Year": 2022,
         "Datetime": "2022-10-23T21:00:00+00:00",
         "Consumption": 0.39,
-        "PricePrediction": null
+        "PricePrediction": 7.7454095
     },
     {
         "Price": 4.9670000000000005,
@@ -86167,7 +86167,7 @@
         "Year": 2022,
         "Datetime": "2022-10-23T22:00:00+00:00",
         "Consumption": 0.19,
-        "PricePrediction": null
+        "PricePrediction": 4.7353525
     },
     {
         "Price": 4.838,
@@ -86177,7 +86177,7 @@
         "Year": 2022,
         "Datetime": "2022-10-23T23:00:00+00:00",
         "Consumption": 0.1,
-        "PricePrediction": null
+        "PricePrediction": 8.193785
     },
     {
         "Price": 3.717,
@@ -86187,7 +86187,7 @@
         "Year": 2022,
         "Datetime": "2022-10-24T00:00:00+00:00",
         "Consumption": 0.13,
-        "PricePrediction": null
+        "PricePrediction": 4.229145
     },
     {
         "Price": 4.2090000000000005,
@@ -86197,7 +86197,7 @@
         "Year": 2022,
         "Datetime": "2022-10-24T01:00:00+00:00",
         "Consumption": 0.05,
-        "PricePrediction": null
+        "PricePrediction": 2.8823502
     },
     {
         "Price": 8.851,
@@ -86207,7 +86207,7 @@
         "Year": 2022,
         "Datetime": "2022-10-24T02:00:00+00:00",
         "Consumption": 0.09,
-        "PricePrediction": null
+        "PricePrediction": 3.462173
     },
     {
         "Price": 17.543,
@@ -86217,7 +86217,7 @@
         "Year": 2022,
         "Datetime": "2022-10-24T03:00:00+00:00",
         "Consumption": 0.12,
-        "PricePrediction": null
+        "PricePrediction": 9.547286
     },
     {
         "Price": 29.323,
@@ -86227,7 +86227,7 @@
         "Year": 2022,
         "Datetime": "2022-10-24T04:00:00+00:00",
         "Consumption": 0.05,
-        "PricePrediction": null
+        "PricePrediction": 11.8317995
     },
     {
         "Price": 29.902,
@@ -86237,7 +86237,7 @@
         "Year": 2022,
         "Datetime": "2022-10-24T05:00:00+00:00",
         "Consumption": 0.08,
-        "PricePrediction": null
+        "PricePrediction": 11.14795
     },
     {
         "Price": 30.005000000000003,
@@ -86247,7 +86247,7 @@
         "Year": 2022,
         "Datetime": "2022-10-24T06:00:00+00:00",
         "Consumption": 0.78,
-        "PricePrediction": null
+        "PricePrediction": 16.59716
     },
     {
         "Price": 27.925,
@@ -86257,7 +86257,7 @@
         "Year": 2022,
         "Datetime": "2022-10-24T07:00:00+00:00",
         "Consumption": 0.35,
-        "PricePrediction": null
+        "PricePrediction": 21.23748
     },
     {
         "Price": 24.61,
@@ -86267,7 +86267,7 @@
         "Year": 2022,
         "Datetime": "2022-10-24T08:00:00+00:00",
         "Consumption": 0.26,
-        "PricePrediction": null
+        "PricePrediction": 23.497324
     },
     {
         "Price": 24.506,
@@ -86277,7 +86277,7 @@
         "Year": 2022,
         "Datetime": "2022-10-24T09:00:00+00:00",
         "Consumption": 0.14,
-        "PricePrediction": null
+        "PricePrediction": 22.37149
     },
     {
         "Price": 27.271,
@@ -86287,7 +86287,7 @@
         "Year": 2022,
         "Datetime": "2022-10-24T10:00:00+00:00",
         "Consumption": 0.24,
-        "PricePrediction": null
+        "PricePrediction": 23.469843
     },
     {
         "Price": 24.037,
@@ -86297,7 +86297,7 @@
         "Year": 2022,
         "Datetime": "2022-10-24T11:00:00+00:00",
         "Consumption": 0.27,
-        "PricePrediction": null
+        "PricePrediction": 23.997223
     },
     {
         "Price": 21.336,
@@ -86307,7 +86307,7 @@
         "Year": 2022,
         "Datetime": "2022-10-24T12:00:00+00:00",
         "Consumption": 0.99,
-        "PricePrediction": null
+        "PricePrediction": 23.22451
     },
     {
         "Price": 24.504,
@@ -86317,7 +86317,7 @@
         "Year": 2022,
         "Datetime": "2022-10-24T13:00:00+00:00",
         "Consumption": 0.32,
-        "PricePrediction": null
+        "PricePrediction": 21.680138
     },
     {
         "Price": 22.504,
@@ -86327,7 +86327,7 @@
         "Year": 2022,
         "Datetime": "2022-10-24T14:00:00+00:00",
         "Consumption": 0.34,
-        "PricePrediction": null
+        "PricePrediction": 24.704834
     },
     {
         "Price": 30.0,
@@ -86337,7 +86337,7 @@
         "Year": 2022,
         "Datetime": "2022-10-24T15:00:00+00:00",
         "Consumption": 0.5,
-        "PricePrediction": null
+        "PricePrediction": 26.705397
     },
     {
         "Price": 32.708,
@@ -86347,7 +86347,7 @@
         "Year": 2022,
         "Datetime": "2022-10-24T16:00:00+00:00",
         "Consumption": 0.83,
-        "PricePrediction": null
+        "PricePrediction": 28.695734
     },
     {
         "Price": 29.904000000000003,
@@ -86357,7 +86357,7 @@
         "Year": 2022,
         "Datetime": "2022-10-24T17:00:00+00:00",
         "Consumption": 0.36,
-        "PricePrediction": null
+        "PricePrediction": 26.693335
     },
     {
         "Price": 21.907,
@@ -86367,7 +86367,7 @@
         "Year": 2022,
         "Datetime": "2022-10-24T18:00:00+00:00",
         "Consumption": 0.34,
-        "PricePrediction": null
+        "PricePrediction": 22.941162
     },
     {
         "Price": 19.297,
@@ -86377,7 +86377,7 @@
         "Year": 2022,
         "Datetime": "2022-10-24T19:00:00+00:00",
         "Consumption": 0.32,
-        "PricePrediction": null
+        "PricePrediction": 18.814318
     },
     {
         "Price": 14.406,
@@ -86387,7 +86387,7 @@
         "Year": 2022,
         "Datetime": "2022-10-24T20:00:00+00:00",
         "Consumption": 0.47,
-        "PricePrediction": null
+        "PricePrediction": 15.021086
     },
     {
         "Price": 10.498,
@@ -86397,7 +86397,7 @@
         "Year": 2022,
         "Datetime": "2022-10-24T21:00:00+00:00",
         "Consumption": 0.45,
-        "PricePrediction": null
+        "PricePrediction": 10.703488
     },
     {
         "Price": 16.884999999999998,
@@ -86407,7 +86407,7 @@
         "Year": 2022,
         "Datetime": "2022-10-24T22:00:00+00:00",
         "Consumption": 0.1,
-        "PricePrediction": null
+        "PricePrediction": 10.4707985
     },
     {
         "Price": 10.953,
@@ -86417,7 +86417,7 @@
         "Year": 2022,
         "Datetime": "2022-10-24T23:00:00+00:00",
         "Consumption": 0.12,
-        "PricePrediction": null
+        "PricePrediction": 6.914646
     },
     {
         "Price": 9.722,
@@ -86427,7 +86427,7 @@
         "Year": 2022,
         "Datetime": "2022-10-25T00:00:00+00:00",
         "Consumption": 0.05,
-        "PricePrediction": null
+        "PricePrediction": 12.188865
     },
     {
         "Price": 9.4,
@@ -86437,7 +86437,7 @@
         "Year": 2022,
         "Datetime": "2022-10-25T01:00:00+00:00",
         "Consumption": 0.08,
-        "PricePrediction": null
+        "PricePrediction": 13.897127
     },
     {
         "Price": 13.0,
@@ -86447,7 +86447,7 @@
         "Year": 2022,
         "Datetime": "2022-10-25T02:00:00+00:00",
         "Consumption": 0.09,
-        "PricePrediction": null
+        "PricePrediction": 13.885136
     },
     {
         "Price": 13.507,
@@ -86457,7 +86457,7 @@
         "Year": 2022,
         "Datetime": "2022-10-25T03:00:00+00:00",
         "Consumption": 0.1,
-        "PricePrediction": null
+        "PricePrediction": 21.582327
     },
     {
         "Price": 18.108,
@@ -86467,7 +86467,7 @@
         "Year": 2022,
         "Datetime": "2022-10-25T04:00:00+00:00",
         "Consumption": 0.06,
-        "PricePrediction": null
+        "PricePrediction": 8.55892
     },
     {
         "Price": 18.053,
@@ -86477,7 +86477,7 @@
         "Year": 2022,
         "Datetime": "2022-10-25T05:00:00+00:00",
         "Consumption": 0.19,
-        "PricePrediction": null
+        "PricePrediction": 18.128405
     },
     {
         "Price": 18.68,
@@ -86487,7 +86487,7 @@
         "Year": 2022,
         "Datetime": "2022-10-25T06:00:00+00:00",
         "Consumption": 0.36,
-        "PricePrediction": null
+        "PricePrediction": 23.013214
     },
     {
         "Price": 19.155,
@@ -86497,7 +86497,7 @@
         "Year": 2022,
         "Datetime": "2022-10-25T07:00:00+00:00",
         "Consumption": 0.0,
-        "PricePrediction": null
+        "PricePrediction": 23.621418
     },
     {
         "Price": 19.992,
@@ -86507,7 +86507,7 @@
         "Year": 2022,
         "Datetime": "2022-10-25T08:00:00+00:00",
         "Consumption": 0.06,
-        "PricePrediction": null
+        "PricePrediction": 14.8742895
     },
     {
         "Price": 19.017,
@@ -86517,7 +86517,7 @@
         "Year": 2022,
         "Datetime": "2022-10-25T09:00:00+00:00",
         "Consumption": 0.18,
-        "PricePrediction": null
+        "PricePrediction": 17.284649
     },
     {
         "Price": 19.064,
@@ -86527,7 +86527,7 @@
         "Year": 2022,
         "Datetime": "2022-10-25T10:00:00+00:00",
         "Consumption": 0.2,
-        "PricePrediction": null
+        "PricePrediction": 22.458681
     },
     {
         "Price": 17.869999999999997,
@@ -86537,7 +86537,7 @@
         "Year": 2022,
         "Datetime": "2022-10-25T11:00:00+00:00",
         "Consumption": 0.18,
-        "PricePrediction": null
+        "PricePrediction": 21.135233
     },
     {
         "Price": 15.077000000000002,
@@ -86547,7 +86547,7 @@
         "Year": 2022,
         "Datetime": "2022-10-25T12:00:00+00:00",
         "Consumption": 0.25,
-        "PricePrediction": null
+        "PricePrediction": 5.5599275
     },
     {
         "Price": 14.776,
@@ -86557,7 +86557,7 @@
         "Year": 2022,
         "Datetime": "2022-10-25T13:00:00+00:00",
         "Consumption": 0.57,
-        "PricePrediction": null
+        "PricePrediction": 5.274481
     },
     {
         "Price": 12.999,
@@ -86567,7 +86567,7 @@
         "Year": 2022,
         "Datetime": "2022-10-25T14:00:00+00:00",
         "Consumption": 0.27,
-        "PricePrediction": null
+        "PricePrediction": 12.365932
     },
     {
         "Price": 14.9,
@@ -86577,7 +86577,7 @@
         "Year": 2022,
         "Datetime": "2022-10-25T15:00:00+00:00",
         "Consumption": 0.22,
-        "PricePrediction": null
+        "PricePrediction": 8.515165
     },
     {
         "Price": 17.103,
@@ -86587,7 +86587,7 @@
         "Year": 2022,
         "Datetime": "2022-10-25T16:00:00+00:00",
         "Consumption": 0.21,
-        "PricePrediction": null
+        "PricePrediction": 11.037294
     },
     {
         "Price": 14.112,
@@ -86597,7 +86597,7 @@
         "Year": 2022,
         "Datetime": "2022-10-25T17:00:00+00:00",
         "Consumption": 0.13,
-        "PricePrediction": null
+        "PricePrediction": 9.517275
     },
     {
         "Price": 7.718000000000001,
@@ -86607,7 +86607,7 @@
         "Year": 2022,
         "Datetime": "2022-10-25T18:00:00+00:00",
         "Consumption": 0.34,
-        "PricePrediction": null
+        "PricePrediction": 4.9386425
     },
     {
         "Price": 8.709999999999999,
@@ -86617,7 +86617,7 @@
         "Year": 2022,
         "Datetime": "2022-10-25T19:00:00+00:00",
         "Consumption": 0.48,
-        "PricePrediction": null
+        "PricePrediction": 2.41383
     },
     {
         "Price": 8.533,
@@ -86627,7 +86627,7 @@
         "Year": 2022,
         "Datetime": "2022-10-25T20:00:00+00:00",
         "Consumption": 0.12,
-        "PricePrediction": null
+        "PricePrediction": 7.3507476
     },
     {
         "Price": 5.5840000000000005,
@@ -86637,7 +86637,7 @@
         "Year": 2022,
         "Datetime": "2022-10-25T21:00:00+00:00",
         "Consumption": 0.48,
-        "PricePrediction": null
+        "PricePrediction": 5.088319
     },
     {
         "Price": 5.83,
@@ -86647,7 +86647,7 @@
         "Year": 2022,
         "Datetime": "2022-10-25T22:00:00+00:00",
         "Consumption": 0.07,
-        "PricePrediction": null
+        "PricePrediction": 1.8054924
     },
     {
         "Price": 5.519,
@@ -86657,7 +86657,7 @@
         "Year": 2022,
         "Datetime": "2022-10-25T23:00:00+00:00",
         "Consumption": 0.1,
-        "PricePrediction": null
+        "PricePrediction": 4.3841434
     },
     {
         "Price": 5.569,
@@ -86667,7 +86667,7 @@
         "Year": 2022,
         "Datetime": "2022-10-26T00:00:00+00:00",
         "Consumption": 0.11,
-        "PricePrediction": null
+        "PricePrediction": 6.220377
     },
     {
         "Price": 5.808,
@@ -86677,7 +86677,7 @@
         "Year": 2022,
         "Datetime": "2022-10-26T01:00:00+00:00",
         "Consumption": 0.03,
-        "PricePrediction": null
+        "PricePrediction": 6.4355044
     },
     {
         "Price": 9.786,
@@ -86687,7 +86687,7 @@
         "Year": 2022,
         "Datetime": "2022-10-26T02:00:00+00:00",
         "Consumption": 0.1,
-        "PricePrediction": null
+        "PricePrediction": 6.145524
     },
     {
         "Price": 12.952000000000002,
@@ -86697,7 +86697,7 @@
         "Year": 2022,
         "Datetime": "2022-10-26T03:00:00+00:00",
         "Consumption": 0.12,
-        "PricePrediction": null
+        "PricePrediction": 3.9879146
     },
     {
         "Price": 18.048,
@@ -86707,7 +86707,7 @@
         "Year": 2022,
         "Datetime": "2022-10-26T04:00:00+00:00",
         "Consumption": 0.05,
-        "PricePrediction": null
+        "PricePrediction": 4.970743
     },
     {
         "Price": 17.893,
@@ -86717,7 +86717,7 @@
         "Year": 2022,
         "Datetime": "2022-10-26T05:00:00+00:00",
         "Consumption": 0.1,
-        "PricePrediction": null
+        "PricePrediction": 2.9602818
     },
     {
         "Price": 17.983,
@@ -86727,7 +86727,7 @@
         "Year": 2022,
         "Datetime": "2022-10-26T06:00:00+00:00",
         "Consumption": 0.48,
-        "PricePrediction": null
+        "PricePrediction": 2.7992127
     },
     {
         "Price": 17.904,
@@ -86737,7 +86737,7 @@
         "Year": 2022,
         "Datetime": "2022-10-26T07:00:00+00:00",
         "Consumption": 0.27,
-        "PricePrediction": null
+        "PricePrediction": 14.773815
     },
     {
         "Price": 17.999000000000002,
@@ -86747,7 +86747,7 @@
         "Year": 2022,
         "Datetime": "2022-10-26T08:00:00+00:00",
         "Consumption": 0.14,
-        "PricePrediction": null
+        "PricePrediction": 16.7007
     },
     {
         "Price": 18.0,
@@ -86757,7 +86757,7 @@
         "Year": 2022,
         "Datetime": "2022-10-26T09:00:00+00:00",
         "Consumption": 0.15,
-        "PricePrediction": null
+        "PricePrediction": 17.264256
     },
     {
         "Price": 17.451,
@@ -86767,7 +86767,7 @@
         "Year": 2022,
         "Datetime": "2022-10-26T10:00:00+00:00",
         "Consumption": 0.18,
-        "PricePrediction": null
+        "PricePrediction": 16.656742
     },
     {
         "Price": 16.4,
@@ -86777,7 +86777,7 @@
         "Year": 2022,
         "Datetime": "2022-10-26T11:00:00+00:00",
         "Consumption": 0.14,
-        "PricePrediction": null
+        "PricePrediction": 20.249361
     },
     {
         "Price": 17.794999999999998,
@@ -86787,7 +86787,7 @@
         "Year": 2022,
         "Datetime": "2022-10-26T12:00:00+00:00",
         "Consumption": 0.44,
-        "PricePrediction": null
+        "PricePrediction": 4.7609696
     },
     {
         "Price": 17.929,
@@ -86797,7 +86797,7 @@
         "Year": 2022,
         "Datetime": "2022-10-26T13:00:00+00:00",
         "Consumption": 0.3,
-        "PricePrediction": null
+        "PricePrediction": 11.444439
     },
     {
         "Price": 17.848,
@@ -86807,7 +86807,7 @@
         "Year": 2022,
         "Datetime": "2022-10-26T14:00:00+00:00",
         "Consumption": 0.26,
-        "PricePrediction": null
+        "PricePrediction": 15.837977
     },
     {
         "Price": 17.761000000000003,
@@ -86817,7 +86817,7 @@
         "Year": 2022,
         "Datetime": "2022-10-26T15:00:00+00:00",
         "Consumption": 0.26,
-        "PricePrediction": null
+        "PricePrediction": 11.864185
     },
     {
         "Price": 18.207,
@@ -86827,7 +86827,7 @@
         "Year": 2022,
         "Datetime": "2022-10-26T16:00:00+00:00",
         "Consumption": 0.39,
-        "PricePrediction": null
+        "PricePrediction": 14.133331
     },
     {
         "Price": 18.059,
@@ -86837,7 +86837,7 @@
         "Year": 2022,
         "Datetime": "2022-10-26T17:00:00+00:00",
         "Consumption": 0.3,
-        "PricePrediction": null
+        "PricePrediction": 22.398666
     },
     {
         "Price": 16.91,
@@ -86847,7 +86847,7 @@
         "Year": 2022,
         "Datetime": "2022-10-26T18:00:00+00:00",
         "Consumption": 0.31,
-        "PricePrediction": null
+        "PricePrediction": 17.715364
     },
     {
         "Price": 16.194,
@@ -86857,7 +86857,7 @@
         "Year": 2022,
         "Datetime": "2022-10-26T19:00:00+00:00",
         "Consumption": 0.05,
-        "PricePrediction": null
+        "PricePrediction": 10.425225
     },
     {
         "Price": 14.649,
@@ -86867,7 +86867,7 @@
         "Year": 2022,
         "Datetime": "2022-10-26T20:00:00+00:00",
         "Consumption": 0.09,
-        "PricePrediction": null
+        "PricePrediction": 7.796387
     },
     {
         "Price": 12.999,
@@ -86877,7 +86877,7 @@
         "Year": 2022,
         "Datetime": "2022-10-26T21:00:00+00:00",
         "Consumption": 0.13,
-        "PricePrediction": null
+        "PricePrediction": 4.5302253
     },
     {
         "Price": 13.001,
@@ -86887,7 +86887,7 @@
         "Year": 2022,
         "Datetime": "2022-10-26T22:00:00+00:00",
         "Consumption": 0.05,
-        "PricePrediction": null
+        "PricePrediction": 10.850546
     },
     {
         "Price": 11.394,
@@ -86897,7 +86897,7 @@
         "Year": 2022,
         "Datetime": "2022-10-26T23:00:00+00:00",
         "Consumption": 0.09,
-        "PricePrediction": null
+        "PricePrediction": 9.457018
     },
     {
         "Price": 10.519,
@@ -86907,7 +86907,7 @@
         "Year": 2022,
         "Datetime": "2022-10-27T00:00:00+00:00",
         "Consumption": 0.12,
-        "PricePrediction": null
+        "PricePrediction": 4.3155017
     },
     {
         "Price": 11.18,
@@ -86917,7 +86917,7 @@
         "Year": 2022,
         "Datetime": "2022-10-27T01:00:00+00:00",
         "Consumption": 0.04,
-        "PricePrediction": null
+        "PricePrediction": 8.461277
     },
     {
         "Price": 12.307,
@@ -86927,7 +86927,7 @@
         "Year": 2022,
         "Datetime": "2022-10-27T02:00:00+00:00",
         "Consumption": 0.09,
-        "PricePrediction": null
+        "PricePrediction": 10.507472
     },
     {
         "Price": 18.0,
@@ -86937,7 +86937,7 @@
         "Year": 2022,
         "Datetime": "2022-10-27T03:00:00+00:00",
         "Consumption": 0.12,
-        "PricePrediction": null
+        "PricePrediction": 22.090569
     },
     {
         "Price": 19.875,
@@ -86947,7 +86947,7 @@
         "Year": 2022,
         "Datetime": "2022-10-27T04:00:00+00:00",
         "Consumption": 0.16,
-        "PricePrediction": null
+        "PricePrediction": 28.643456
     },
     {
         "Price": 20.288,
@@ -86957,7 +86957,7 @@
         "Year": 2022,
         "Datetime": "2022-10-27T05:00:00+00:00",
         "Consumption": 0.49,
-        "PricePrediction": null
+        "PricePrediction": 24.854002
     },
     {
         "Price": 21.462,
@@ -86967,7 +86967,7 @@
         "Year": 2022,
         "Datetime": "2022-10-27T06:00:00+00:00",
         "Consumption": 0.27,
-        "PricePrediction": null
+        "PricePrediction": 19.65222
     },
     {
         "Price": 19.508000000000003,
@@ -86977,7 +86977,7 @@
         "Year": 2022,
         "Datetime": "2022-10-27T07:00:00+00:00",
         "Consumption": 0.03,
-        "PricePrediction": null
+        "PricePrediction": 25.81505
     },
     {
         "Price": 21.502,
@@ -86987,7 +86987,7 @@
         "Year": 2022,
         "Datetime": "2022-10-27T08:00:00+00:00",
         "Consumption": 0.11,
-        "PricePrediction": null
+        "PricePrediction": 21.128391
     },
     {
         "Price": 18.803,
@@ -86997,7 +86997,7 @@
         "Year": 2022,
         "Datetime": "2022-10-27T09:00:00+00:00",
         "Consumption": 0.09,
-        "PricePrediction": null
+        "PricePrediction": 21.05261
     },
     {
         "Price": 20.774,
@@ -87007,7 +87007,7 @@
         "Year": 2022,
         "Datetime": "2022-10-27T10:00:00+00:00",
         "Consumption": 0.19,
-        "PricePrediction": null
+        "PricePrediction": 20.441296
     },
     {
         "Price": 19.824,
@@ -87017,7 +87017,7 @@
         "Year": 2022,
         "Datetime": "2022-10-27T11:00:00+00:00",
         "Consumption": 0.31,
-        "PricePrediction": null
+        "PricePrediction": 18.980997
     },
     {
         "Price": 18.217,
@@ -87027,7 +87027,7 @@
         "Year": 2022,
         "Datetime": "2022-10-27T12:00:00+00:00",
         "Consumption": 0.28,
-        "PricePrediction": null
+        "PricePrediction": 18.645462
     },
     {
         "Price": 16.846,
@@ -87037,7 +87037,7 @@
         "Year": 2022,
         "Datetime": "2022-10-27T13:00:00+00:00",
         "Consumption": 0.25,
-        "PricePrediction": null
+        "PricePrediction": 15.453651
     },
     {
         "Price": 16.011000000000003,
@@ -87047,7 +87047,7 @@
         "Year": 2022,
         "Datetime": "2022-10-27T14:00:00+00:00",
         "Consumption": 0.71,
-        "PricePrediction": null
+        "PricePrediction": 21.230894
     },
     {
         "Price": 16.457,
@@ -87057,7 +87057,7 @@
         "Year": 2022,
         "Datetime": "2022-10-27T15:00:00+00:00",
         "Consumption": 0.14,
-        "PricePrediction": null
+        "PricePrediction": 5.8678193
     },
     {
         "Price": 16.681,
@@ -87067,7 +87067,7 @@
         "Year": 2022,
         "Datetime": "2022-10-27T16:00:00+00:00",
         "Consumption": 0.12,
-        "PricePrediction": null
+        "PricePrediction": 7.6993623
     },
     {
         "Price": 15.965,
@@ -87077,7 +87077,7 @@
         "Year": 2022,
         "Datetime": "2022-10-27T17:00:00+00:00",
         "Consumption": 0.05,
-        "PricePrediction": null
+        "PricePrediction": 6.078658
     },
     {
         "Price": 14.001,
@@ -87087,7 +87087,7 @@
         "Year": 2022,
         "Datetime": "2022-10-27T18:00:00+00:00",
         "Consumption": 0.11,
-        "PricePrediction": null
+        "PricePrediction": 1.7170953
     },
     {
         "Price": 14.45,
@@ -87097,7 +87097,7 @@
         "Year": 2022,
         "Datetime": "2022-10-27T19:00:00+00:00",
         "Consumption": 0.2,
-        "PricePrediction": null
+        "PricePrediction": 0.6328257
     },
     {
         "Price": 13.94,
@@ -87107,7 +87107,7 @@
         "Year": 2022,
         "Datetime": "2022-10-27T20:00:00+00:00",
         "Consumption": 0.11,
-        "PricePrediction": null
+        "PricePrediction": 5.99786
     },
     {
         "Price": 11.997,
@@ -87117,7 +87117,7 @@
         "Year": 2022,
         "Datetime": "2022-10-27T21:00:00+00:00",
         "Consumption": 0.11,
-        "PricePrediction": null
+        "PricePrediction": 3.111914
     },
     {
         "Price": 8.869,
@@ -87127,7 +87127,7 @@
         "Year": 2022,
         "Datetime": "2022-10-27T22:00:00+00:00",
         "Consumption": 0.05,
-        "PricePrediction": null
+        "PricePrediction": 3.7570212
     },
     {
         "Price": 9.936,
@@ -87137,7 +87137,7 @@
         "Year": 2022,
         "Datetime": "2022-10-27T23:00:00+00:00",
         "Consumption": 0.08,
-        "PricePrediction": null
+        "PricePrediction": 7.1161857
     },
     {
         "Price": 9.015,
@@ -87147,7 +87147,7 @@
         "Year": 2022,
         "Datetime": "2022-10-28T00:00:00+00:00",
         "Consumption": 0.12,
-        "PricePrediction": null
+        "PricePrediction": -0.04552213
     },
     {
         "Price": 8.197,
@@ -87157,7 +87157,7 @@
         "Year": 2022,
         "Datetime": "2022-10-28T01:00:00+00:00",
         "Consumption": 0.05,
-        "PricePrediction": null
+        "PricePrediction": 3.1485207
     },
     {
         "Price": 10.173,
@@ -87167,7 +87167,7 @@
         "Year": 2022,
         "Datetime": "2022-10-28T02:00:00+00:00",
         "Consumption": 0.07,
-        "PricePrediction": null
+        "PricePrediction": 2.1224563
     },
     {
         "Price": 11.997,
@@ -87177,7 +87177,7 @@
         "Year": 2022,
         "Datetime": "2022-10-28T03:00:00+00:00",
         "Consumption": 0.12,
-        "PricePrediction": null
+        "PricePrediction": 2.1927898
     },
     {
         "Price": 12.199,
@@ -87187,7 +87187,7 @@
         "Year": 2022,
         "Datetime": "2022-10-28T04:00:00+00:00",
         "Consumption": 0.07,
-        "PricePrediction": null
+        "PricePrediction": 8.408949
     },
     {
         "Price": 10.004,
@@ -87197,7 +87197,7 @@
         "Year": 2022,
         "Datetime": "2022-10-28T05:00:00+00:00",
         "Consumption": 0.52,
-        "PricePrediction": null
+        "PricePrediction": 8.546602
     },
     {
         "Price": 11.814,
@@ -87207,7 +87207,7 @@
         "Year": 2022,
         "Datetime": "2022-10-28T06:00:00+00:00",
         "Consumption": 0.33,
-        "PricePrediction": null
+        "PricePrediction": 8.93043
     },
     {
         "Price": 11.956,
@@ -87217,7 +87217,7 @@
         "Year": 2022,
         "Datetime": "2022-10-28T07:00:00+00:00",
         "Consumption": 0.41,
-        "PricePrediction": null
+        "PricePrediction": 8.5548935
     },
     {
         "Price": 10.797,
@@ -87227,7 +87227,7 @@
         "Year": 2022,
         "Datetime": "2022-10-28T08:00:00+00:00",
         "Consumption": 0.22,
-        "PricePrediction": null
+        "PricePrediction": 8.240646
     },
     {
         "Price": 10.647,
@@ -87237,7 +87237,7 @@
         "Year": 2022,
         "Datetime": "2022-10-28T09:00:00+00:00",
         "Consumption": 0.22,
-        "PricePrediction": null
+        "PricePrediction": 5.958693
     },
     {
         "Price": 10.036,
@@ -87247,7 +87247,7 @@
         "Year": 2022,
         "Datetime": "2022-10-28T10:00:00+00:00",
         "Consumption": 0.28,
-        "PricePrediction": null
+        "PricePrediction": 5.824042
     },
     {
         "Price": 7.26,
@@ -87257,7 +87257,7 @@
         "Year": 2022,
         "Datetime": "2022-10-28T11:00:00+00:00",
         "Consumption": 0.16,
-        "PricePrediction": null
+        "PricePrediction": 9.144202
     },
     {
         "Price": 3.498,
@@ -87267,7 +87267,7 @@
         "Year": 2022,
         "Datetime": "2022-10-28T12:00:00+00:00",
         "Consumption": 0.04,
-        "PricePrediction": null
+        "PricePrediction": 6.2428627
     },
     {
         "Price": 3.5810000000000004,
@@ -87277,7 +87277,7 @@
         "Year": 2022,
         "Datetime": "2022-10-28T13:00:00+00:00",
         "Consumption": 0.1,
-        "PricePrediction": null
+        "PricePrediction": 6.296379
     },
     {
         "Price": 8.365,
@@ -87287,7 +87287,7 @@
         "Year": 2022,
         "Datetime": "2022-10-28T14:00:00+00:00",
         "Consumption": 0.25,
-        "PricePrediction": null
+        "PricePrediction": 8.161933
     },
     {
         "Price": 12.999,
@@ -87297,7 +87297,7 @@
         "Year": 2022,
         "Datetime": "2022-10-28T15:00:00+00:00",
         "Consumption": 0.63,
-        "PricePrediction": null
+        "PricePrediction": 7.6191964
     },
     {
         "Price": 15.187,
@@ -87307,7 +87307,7 @@
         "Year": 2022,
         "Datetime": "2022-10-28T16:00:00+00:00",
         "Consumption": 0.32,
-        "PricePrediction": null
+        "PricePrediction": 8.374371
     },
     {
         "Price": 13.703,
@@ -87317,7 +87317,7 @@
         "Year": 2022,
         "Datetime": "2022-10-28T17:00:00+00:00",
         "Consumption": 1.15,
-        "PricePrediction": null
+        "PricePrediction": 4.9978466
     },
     {
         "Price": 10.814,
@@ -87327,7 +87327,7 @@
         "Year": 2022,
         "Datetime": "2022-10-28T18:00:00+00:00",
         "Consumption": 1.04,
-        "PricePrediction": null
+        "PricePrediction": 2.2518547
     },
     {
         "Price": 11.181,
@@ -87337,7 +87337,7 @@
         "Year": 2022,
         "Datetime": "2022-10-28T19:00:00+00:00",
         "Consumption": 0.05,
-        "PricePrediction": null
+        "PricePrediction": 1.5656556
     },
     {
         "Price": 5.220000000000001,
@@ -87347,7 +87347,7 @@
         "Year": 2022,
         "Datetime": "2022-10-28T20:00:00+00:00",
         "Consumption": 0.11,
-        "PricePrediction": null
+        "PricePrediction": 2.3653047
     },
     {
         "Price": 2.777,
@@ -87357,7 +87357,7 @@
         "Year": 2022,
         "Datetime": "2022-10-28T21:00:00+00:00",
         "Consumption": null,
-        "PricePrediction": null
+        "PricePrediction": 3.2622576
     },
     {
         "Price": 3.055,
@@ -87367,7 +87367,7 @@
         "Year": 2022,
         "Datetime": "2022-10-28T22:00:00+00:00",
         "Consumption": null,
-        "PricePrediction": null
+        "PricePrediction": 0.5874944
     },
     {
         "Price": 2.298,
@@ -87377,7 +87377,7 @@
         "Year": 2022,
         "Datetime": "2022-10-28T23:00:00+00:00",
         "Consumption": 0.04,
-        "PricePrediction": null
+        "PricePrediction": 1.4693937
     },
     {
         "Price": 1.9170000000000005,
@@ -87387,7 +87387,7 @@
         "Year": 2022,
         "Datetime": "2022-10-29T00:00:00+00:00",
         "Consumption": 0.11,
-        "PricePrediction": null
+        "PricePrediction": 3.3040593
     },
     {
         "Price": 1.6469999999999998,
@@ -87397,7 +87397,7 @@
         "Year": 2022,
         "Datetime": "2022-10-29T01:00:00+00:00",
         "Consumption": 0.12,
-        "PricePrediction": null
+        "PricePrediction": 2.9408462
     },
     {
         "Price": 1.463,
@@ -87407,7 +87407,7 @@
         "Year": 2022,
         "Datetime": "2022-10-29T02:00:00+00:00",
         "Consumption": 0.05,
-        "PricePrediction": null
+        "PricePrediction": 1.5377758
     },
     {
         "Price": 1.39,
@@ -87417,7 +87417,7 @@
         "Year": 2022,
         "Datetime": "2022-10-29T03:00:00+00:00",
         "Consumption": 0.08,
-        "PricePrediction": null
+        "PricePrediction": 1.8955673
     },
     {
         "Price": 1.27,
@@ -87427,7 +87427,7 @@
         "Year": 2022,
         "Datetime": "2022-10-29T04:00:00+00:00",
         "Consumption": 0.12,
-        "PricePrediction": null
+        "PricePrediction": 7.668061
     },
     {
         "Price": 1.272,
@@ -87437,7 +87437,7 @@
         "Year": 2022,
         "Datetime": "2022-10-29T05:00:00+00:00",
         "Consumption": 0.07,
-        "PricePrediction": null
+        "PricePrediction": 3.4904525
     },
     {
         "Price": 1.315,
@@ -87447,7 +87447,7 @@
         "Year": 2022,
         "Datetime": "2022-10-29T06:00:00+00:00",
         "Consumption": 0.28,
-        "PricePrediction": null
+        "PricePrediction": 7.2987823
     },
     {
         "Price": 1.523,
@@ -87457,7 +87457,7 @@
         "Year": 2022,
         "Datetime": "2022-10-29T07:00:00+00:00",
         "Consumption": 0.28,
-        "PricePrediction": null
+        "PricePrediction": 6.4018025
     },
     {
         "Price": 1.2970000000000002,
@@ -87467,7 +87467,7 @@
         "Year": 2022,
         "Datetime": "2022-10-29T08:00:00+00:00",
         "Consumption": 0.28,
-        "PricePrediction": null
+        "PricePrediction": 6.973704
     },
     {
         "Price": 1.223,
@@ -87477,7 +87477,7 @@
         "Year": 2022,
         "Datetime": "2022-10-29T09:00:00+00:00",
         "Consumption": 0.07,
-        "PricePrediction": null
+        "PricePrediction": 4.686186
     },
     {
         "Price": 0.82,
@@ -87487,7 +87487,7 @@
         "Year": 2022,
         "Datetime": "2022-10-29T10:00:00+00:00",
         "Consumption": 0.44,
-        "PricePrediction": null
+        "PricePrediction": 3.0766387
     },
     {
         "Price": 0.492,
@@ -87497,7 +87497,7 @@
         "Year": 2022,
         "Datetime": "2022-10-29T11:00:00+00:00",
         "Consumption": 0.35,
-        "PricePrediction": null
+        "PricePrediction": 4.668609
     },
     {
         "Price": 0.4309999999999999,
@@ -87507,7 +87507,7 @@
         "Year": 2022,
         "Datetime": "2022-10-29T12:00:00+00:00",
         "Consumption": 0.32,
-        "PricePrediction": null
+        "PricePrediction": 5.9103813
     },
     {
         "Price": 0.491,
@@ -87517,7 +87517,7 @@
         "Year": 2022,
         "Datetime": "2022-10-29T13:00:00+00:00",
         "Consumption": 0.3,
-        "PricePrediction": null
+        "PricePrediction": 5.192034
     },
     {
         "Price": 1.161,
@@ -87527,7 +87527,7 @@
         "Year": 2022,
         "Datetime": "2022-10-29T14:00:00+00:00",
         "Consumption": 0.33,
-        "PricePrediction": null
+        "PricePrediction": 6.504218
     },
     {
         "Price": 1.62,
@@ -87537,7 +87537,7 @@
         "Year": 2022,
         "Datetime": "2022-10-29T15:00:00+00:00",
         "Consumption": 0.27,
-        "PricePrediction": null
+        "PricePrediction": 6.7326107
     },
     {
         "Price": 1.6809999999999998,
@@ -87547,7 +87547,7 @@
         "Year": 2022,
         "Datetime": "2022-10-29T16:00:00+00:00",
         "Consumption": 0.31,
-        "PricePrediction": null
+        "PricePrediction": 9.313536
     },
     {
         "Price": 1.6649999999999998,
@@ -87557,7 +87557,7 @@
         "Year": 2022,
         "Datetime": "2022-10-29T17:00:00+00:00",
         "Consumption": 0.31,
-        "PricePrediction": null
+        "PricePrediction": 6.1752825
     },
     {
         "Price": 1.559,
@@ -87567,7 +87567,7 @@
         "Year": 2022,
         "Datetime": "2022-10-29T18:00:00+00:00",
         "Consumption": 1.09,
-        "PricePrediction": null
+        "PricePrediction": 2.237586
     },
     {
         "Price": 1.643,
@@ -87577,7 +87577,7 @@
         "Year": 2022,
         "Datetime": "2022-10-29T19:00:00+00:00",
         "Consumption": 0.24,
-        "PricePrediction": null
+        "PricePrediction": 3.0329473
     },
     {
         "Price": 1.653,
@@ -87587,7 +87587,7 @@
         "Year": 2022,
         "Datetime": "2022-10-29T20:00:00+00:00",
         "Consumption": 0.48,
-        "PricePrediction": null
+        "PricePrediction": 5.114815
     },
     {
         "Price": 1.556,
@@ -87597,7 +87597,7 @@
         "Year": 2022,
         "Datetime": "2022-10-29T21:00:00+00:00",
         "Consumption": 0.32,
-        "PricePrediction": null
+        "PricePrediction": 6.592895
     },
     {
         "Price": 1.184,
@@ -87607,7 +87607,7 @@
         "Year": 2022,
         "Datetime": "2022-10-29T22:00:00+00:00",
         "Consumption": 0.25,
-        "PricePrediction": null
+        "PricePrediction": 3.9824994
     },
     {
         "Price": 1.232,
@@ -87617,7 +87617,7 @@
         "Year": 2022,
         "Datetime": "2022-10-29T23:00:00+00:00",
         "Consumption": 0.07,
-        "PricePrediction": null
+        "PricePrediction": 3.3652484
     },
     {
         "Price": 1.5470000000000002,
@@ -87627,7 +87627,7 @@
         "Year": 2022,
         "Datetime": "2022-10-30T00:00:00+00:00",
         "Consumption": 0.09,
-        "PricePrediction": null
+        "PricePrediction": 3.2845645
     },
     {
         "Price": 1.628,
@@ -87637,7 +87637,7 @@
         "Year": 2022,
         "Datetime": "2022-10-30T01:00:00+00:00",
         "Consumption": 0.08,
-        "PricePrediction": null
+        "PricePrediction": 3.3033447
     },
     {
         "Price": 1.644,
@@ -87647,7 +87647,7 @@
         "Year": 2022,
         "Datetime": "2022-10-30T02:00:00+00:00",
         "Consumption": 0.07,
-        "PricePrediction": null
+        "PricePrediction": 2.972103
     },
     {
         "Price": 1.876,
@@ -87657,7 +87657,7 @@
         "Year": 2022,
         "Datetime": "2022-10-30T03:00:00+00:00",
         "Consumption": 0.09,
-        "PricePrediction": null
+        "PricePrediction": 2.5665295
     },
     {
         "Price": 2.146,
@@ -87666,8 +87666,8 @@
         "Month": 10,
         "Year": 2022,
         "Datetime": "2022-10-30T04:00:00+00:00",
-        "Consumption": 0.05,
-        "PricePrediction": null
+        "Consumption": 1.2,
+        "PricePrediction": 4.057829
     },
     {
         "Price": 2.283,
@@ -87676,8 +87676,8 @@
         "Month": 10,
         "Year": 2022,
         "Datetime": "2022-10-30T05:00:00+00:00",
-        "Consumption": 0.1,
-        "PricePrediction": null
+        "Consumption": 1.2,
+        "PricePrediction": 4.840478
     },
     {
         "Price": 2.76,
@@ -87686,8 +87686,8 @@
         "Month": 10,
         "Year": 2022,
         "Datetime": "2022-10-30T06:00:00+00:00",
-        "Consumption": 0.09,
-        "PricePrediction": null
+        "Consumption": 1.02,
+        "PricePrediction": 2.9224882
     },
     {
         "Price": 3.475,
@@ -87697,7 +87697,7 @@
         "Year": 2022,
         "Datetime": "2022-10-30T07:00:00+00:00",
         "Consumption": 0.37,
-        "PricePrediction": null
+        "PricePrediction": 2.9207146
     },
     {
         "Price": 3.732,
@@ -87707,7 +87707,7 @@
         "Year": 2022,
         "Datetime": "2022-10-30T08:00:00+00:00",
         "Consumption": 0.26,
-        "PricePrediction": null
+        "PricePrediction": 2.0778654
     },
     {
         "Price": 7.964,
@@ -87717,7 +87717,7 @@
         "Year": 2022,
         "Datetime": "2022-10-30T09:00:00+00:00",
         "Consumption": 0.43,
-        "PricePrediction": null
+        "PricePrediction": 3.9976528
     },
     {
         "Price": 9.763,
@@ -87727,7 +87727,7 @@
         "Year": 2022,
         "Datetime": "2022-10-30T10:00:00+00:00",
         "Consumption": 0.75,
-        "PricePrediction": null
+        "PricePrediction": 4.2687154
     },
     {
         "Price": 9.76,
@@ -87737,7 +87737,7 @@
         "Year": 2022,
         "Datetime": "2022-10-30T11:00:00+00:00",
         "Consumption": 0.4,
-        "PricePrediction": null
+        "PricePrediction": 4.936096
     },
     {
         "Price": 9.76,
@@ -87747,7 +87747,7 @@
         "Year": 2022,
         "Datetime": "2022-10-30T12:00:00+00:00",
         "Consumption": 0.32,
-        "PricePrediction": null
+        "PricePrediction": 4.725749
     },
     {
         "Price": 10.68,
@@ -87757,7 +87757,7 @@
         "Year": 2022,
         "Datetime": "2022-10-30T13:00:00+00:00",
         "Consumption": 0.25,
-        "PricePrediction": null
+        "PricePrediction": 3.9875758
     },
     {
         "Price": 12.162,
@@ -87766,8 +87766,8 @@
         "Month": 10,
         "Year": 2022,
         "Datetime": "2022-10-30T14:00:00+00:00",
-        "Consumption": 1.02,
-        "PricePrediction": null
+        "Consumption": 0.09,
+        "PricePrediction": 5.1948533
     },
     {
         "Price": 13.555,
@@ -87777,7 +87777,7 @@
         "Year": 2022,
         "Datetime": "2022-10-30T15:00:00+00:00",
         "Consumption": 0.38,
-        "PricePrediction": null
+        "PricePrediction": 7.058221
     },
     {
         "Price": 15.116,
@@ -87787,7 +87787,7 @@
         "Year": 2022,
         "Datetime": "2022-10-30T16:00:00+00:00",
         "Consumption": 0.42,
-        "PricePrediction": null
+        "PricePrediction": 19.493402
     },
     {
         "Price": 16.493000000000002,
@@ -87796,8 +87796,8 @@
         "Month": 10,
         "Year": 2022,
         "Datetime": "2022-10-30T17:00:00+00:00",
-        "Consumption": 1.2,
-        "PricePrediction": null
+        "Consumption": 0.05,
+        "PricePrediction": 19.874598
     },
     {
         "Price": 15.972,
@@ -87807,7 +87807,7 @@
         "Year": 2022,
         "Datetime": "2022-10-30T18:00:00+00:00",
         "Consumption": 0.6,
-        "PricePrediction": null
+        "PricePrediction": 17.107504
     },
     {
         "Price": 14.28,
@@ -87817,7 +87817,7 @@
         "Year": 2022,
         "Datetime": "2022-10-30T19:00:00+00:00",
         "Consumption": 0.64,
-        "PricePrediction": null
+        "PricePrediction": 13.993009
     },
     {
         "Price": 14.225,
@@ -87827,7 +87827,7 @@
         "Year": 2022,
         "Datetime": "2022-10-30T20:00:00+00:00",
         "Consumption": 0.14,
-        "PricePrediction": null
+        "PricePrediction": 22.576078
     },
     {
         "Price": 12.7,
@@ -87837,7 +87837,7 @@
         "Year": 2022,
         "Datetime": "2022-10-30T21:00:00+00:00",
         "Consumption": 0.11,
-        "PricePrediction": null
+        "PricePrediction": 20.269047
     },
     {
         "Price": 10.926,
@@ -87847,7 +87847,7 @@
         "Year": 2022,
         "Datetime": "2022-10-30T22:00:00+00:00",
         "Consumption": 0.05,
-        "PricePrediction": null
+        "PricePrediction": 13.20421
     },
     {
         "Price": 12.97,
@@ -87857,7 +87857,7 @@
         "Year": 2022,
         "Datetime": "2022-10-30T23:00:00+00:00",
         "Consumption": 0.14,
-        "PricePrediction": null
+        "PricePrediction": 13.359354
     },
     {
         "Price": 11.909,
@@ -87867,7 +87867,7 @@
         "Year": 2022,
         "Datetime": "2022-10-31T00:00:00+00:00",
         "Consumption": 0.13,
-        "PricePrediction": null
+        "PricePrediction": 8.580505
     },
     {
         "Price": 11.632,
@@ -87876,8 +87876,8 @@
         "Month": 10,
         "Year": 2022,
         "Datetime": "2022-10-31T01:00:00+00:00",
-        "Consumption": 0.13,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 9.728679
     },
     {
         "Price": 11.46,
@@ -87886,8 +87886,8 @@
         "Month": 10,
         "Year": 2022,
         "Datetime": "2022-10-31T02:00:00+00:00",
-        "Consumption": 0.1,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 11.388049
     },
     {
         "Price": 11.998,
@@ -87896,8 +87896,8 @@
         "Month": 10,
         "Year": 2022,
         "Datetime": "2022-10-31T03:00:00+00:00",
-        "Consumption": 0.11,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 13.467454
     },
     {
         "Price": 15.316999999999998,
@@ -87906,8 +87906,8 @@
         "Month": 10,
         "Year": 2022,
         "Datetime": "2022-10-31T04:00:00+00:00",
-        "Consumption": 0.08,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 14.538482
     },
     {
         "Price": 14.816999999999998,
@@ -87916,8 +87916,8 @@
         "Month": 10,
         "Year": 2022,
         "Datetime": "2022-10-31T05:00:00+00:00",
-        "Consumption": 0.07,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 13.887401
     },
     {
         "Price": 16.502000000000002,
@@ -87926,8 +87926,8 @@
         "Month": 10,
         "Year": 2022,
         "Datetime": "2022-10-31T06:00:00+00:00",
-        "Consumption": 0.25,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 14.269342
     },
     {
         "Price": 16.8,
@@ -87936,8 +87936,8 @@
         "Month": 10,
         "Year": 2022,
         "Datetime": "2022-10-31T07:00:00+00:00",
-        "Consumption": 0.28,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 13.694548
     },
     {
         "Price": 15.330000000000002,
@@ -87946,8 +87946,8 @@
         "Month": 10,
         "Year": 2022,
         "Datetime": "2022-10-31T08:00:00+00:00",
-        "Consumption": 0.27,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 10.420388
     },
     {
         "Price": 14.335,
@@ -87956,8 +87956,8 @@
         "Month": 10,
         "Year": 2022,
         "Datetime": "2022-10-31T09:00:00+00:00",
-        "Consumption": 0.19,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 5.4439297
     },
     {
         "Price": 14.195,
@@ -87966,8 +87966,8 @@
         "Month": 10,
         "Year": 2022,
         "Datetime": "2022-10-31T10:00:00+00:00",
-        "Consumption": 0.09,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 4.497731
     },
     {
         "Price": 14.196000000000002,
@@ -87976,8 +87976,8 @@
         "Month": 10,
         "Year": 2022,
         "Datetime": "2022-10-31T11:00:00+00:00",
-        "Consumption": 0.26,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 9.822486
     },
     {
         "Price": 14.246,
@@ -87986,8 +87986,8 @@
         "Month": 10,
         "Year": 2022,
         "Datetime": "2022-10-31T12:00:00+00:00",
-        "Consumption": 0.27,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 8.447378
     },
     {
         "Price": 15.128,
@@ -87996,8 +87996,8 @@
         "Month": 10,
         "Year": 2022,
         "Datetime": "2022-10-31T13:00:00+00:00",
-        "Consumption": 0.24,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 4.486941
     },
     {
         "Price": 16.36,
@@ -88006,8 +88006,8 @@
         "Month": 10,
         "Year": 2022,
         "Datetime": "2022-10-31T14:00:00+00:00",
-        "Consumption": 1.1,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 4.65301
     },
     {
         "Price": 16.702,
@@ -88016,8 +88016,8 @@
         "Month": 10,
         "Year": 2022,
         "Datetime": "2022-10-31T15:00:00+00:00",
-        "Consumption": 0.81,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 4.0445275
     },
     {
         "Price": 17.593,
@@ -88026,8 +88026,8 @@
         "Month": 10,
         "Year": 2022,
         "Datetime": "2022-10-31T16:00:00+00:00",
-        "Consumption": 1.57,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 5.756425
     },
     {
         "Price": 17.665,
@@ -88036,8 +88036,8 @@
         "Month": 10,
         "Year": 2022,
         "Datetime": "2022-10-31T17:00:00+00:00",
-        "Consumption": 0.25,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 2.3226252
     },
     {
         "Price": 16.294999999999998,
@@ -88046,8 +88046,8 @@
         "Month": 10,
         "Year": 2022,
         "Datetime": "2022-10-31T18:00:00+00:00",
-        "Consumption": 0.25,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 2.871854
     },
     {
         "Price": 14.272,
@@ -88056,8 +88056,8 @@
         "Month": 10,
         "Year": 2022,
         "Datetime": "2022-10-31T19:00:00+00:00",
-        "Consumption": 0.3,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 1.7701476
     },
     {
         "Price": 13.281,
@@ -88066,8 +88066,8 @@
         "Month": 10,
         "Year": 2022,
         "Datetime": "2022-10-31T20:00:00+00:00",
-        "Consumption": 0.43,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 4.433139
     },
     {
         "Price": 13.438999999999998,
@@ -88076,8 +88076,8 @@
         "Month": 10,
         "Year": 2022,
         "Datetime": "2022-10-31T21:00:00+00:00",
-        "Consumption": 0.16,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": -0.1198052
     },
     {
         "Price": 11.474,
@@ -88086,8 +88086,8 @@
         "Month": 10,
         "Year": 2022,
         "Datetime": "2022-10-31T22:00:00+00:00",
-        "Consumption": 0.43,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 4.5804477
     },
     {
         "Price": 8.67,
@@ -88096,8 +88096,8 @@
         "Month": 10,
         "Year": 2022,
         "Datetime": "2022-10-31T23:00:00+00:00",
-        "Consumption": 0.08,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 1.0731298
     },
     {
         "Price": 9.001000000000001,
@@ -88106,697 +88106,727 @@
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-01T00:00:00+00:00",
-        "Consumption": 0.07,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 1.388735
     },
     {
-        "Price": 9.0,
+        "Price": null,
         "Hour": 1,
         "Day": 1,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-01T01:00:00+00:00",
-        "Consumption": 0.05,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 0.65305454
     },
     {
-        "Price": 9.0,
+        "Price": null,
         "Hour": 2,
         "Day": 1,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-01T02:00:00+00:00",
-        "Consumption": 0.09,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 1.8898227
     },
     {
-        "Price": 9.8,
+        "Price": null,
         "Hour": 3,
         "Day": 1,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-01T03:00:00+00:00",
-        "Consumption": 0.04,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 0.77560735
     },
     {
-        "Price": 11.996,
+        "Price": null,
         "Hour": 4,
         "Day": 1,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-01T04:00:00+00:00",
-        "Consumption": 0.07,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 3.9732792
     },
     {
-        "Price": 31.109,
+        "Price": null,
         "Hour": 5,
         "Day": 1,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-01T05:00:00+00:00",
-        "Consumption": 0.06,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 5.907103
     },
     {
-        "Price": 31.109,
+        "Price": null,
         "Hour": 6,
         "Day": 1,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-01T06:00:00+00:00",
-        "Consumption": 0.43,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 7.621848
     },
     {
-        "Price": 31.303,
+        "Price": null,
         "Hour": 7,
         "Day": 1,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-01T07:00:00+00:00",
-        "Consumption": 0.28,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 8.744707
     },
     {
-        "Price": 31.418,
+        "Price": null,
         "Hour": 8,
         "Day": 1,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-01T08:00:00+00:00",
-        "Consumption": 0.23,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 8.319333
     },
     {
-        "Price": 34.486000000000004,
+        "Price": null,
         "Hour": 9,
         "Day": 1,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-01T09:00:00+00:00",
-        "Consumption": 0.12,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 8.152804
     },
     {
-        "Price": 34.556,
+        "Price": null,
         "Hour": 10,
         "Day": 1,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-01T10:00:00+00:00",
-        "Consumption": 0.23,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 9.607247
     },
     {
-        "Price": 31.105,
+        "Price": null,
         "Hour": 11,
         "Day": 1,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-01T11:00:00+00:00",
-        "Consumption": 0.23,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 10.388017
     },
     {
-        "Price": 30.389,
+        "Price": null,
         "Hour": 12,
         "Day": 1,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-01T12:00:00+00:00",
-        "Consumption": 0.17,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 9.580288
     },
     {
-        "Price": 26.909,
+        "Price": null,
         "Hour": 13,
         "Day": 1,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-01T13:00:00+00:00",
-        "Consumption": 0.29,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 9.068001
     },
     {
-        "Price": 32.999,
+        "Price": null,
         "Hour": 14,
         "Day": 1,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-01T14:00:00+00:00",
-        "Consumption": 0.36,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 10.658858
     },
     {
-        "Price": 34.553,
+        "Price": null,
         "Hour": 15,
         "Day": 1,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-01T15:00:00+00:00",
-        "Consumption": 0.26,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 13.693979
     },
     {
-        "Price": 30.004,
+        "Price": null,
         "Hour": 16,
         "Day": 1,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-01T16:00:00+00:00",
-        "Consumption": 0.34,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 13.162025
     },
     {
-        "Price": 30.608,
+        "Price": null,
         "Hour": 17,
         "Day": 1,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-01T17:00:00+00:00",
-        "Consumption": 2.06,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 11.942578
     },
     {
-        "Price": 33.545,
+        "Price": null,
         "Hour": 18,
         "Day": 1,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-01T18:00:00+00:00",
-        "Consumption": 0.37,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 11.910859
     },
     {
-        "Price": 21.902,
+        "Price": null,
         "Hour": 19,
         "Day": 1,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-01T19:00:00+00:00",
-        "Consumption": 0.57,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 7.4566736
     },
     {
-        "Price": 18.553,
+        "Price": null,
         "Hour": 20,
         "Day": 1,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-01T20:00:00+00:00",
-        "Consumption": 0.36,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 4.4302936
     },
     {
-        "Price": 14.123,
+        "Price": null,
         "Hour": 21,
         "Day": 1,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-01T21:00:00+00:00",
-        "Consumption": 0.35,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 7.6336565
     },
     {
-        "Price": 9.897,
+        "Price": null,
         "Hour": 22,
         "Day": 1,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-01T22:00:00+00:00",
-        "Consumption": 0.05,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 3.0652735
     },
     {
-        "Price": 10.638,
+        "Price": null,
         "Hour": 23,
         "Day": 1,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-01T23:00:00+00:00",
-        "Consumption": 0.13,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 2.6088455
     },
     {
-        "Price": 10.095,
+        "Price": null,
         "Hour": 0,
         "Day": 2,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-02T00:00:00+00:00",
-        "Consumption": 0.1,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 3.095404
     },
     {
-        "Price": 10.09,
+        "Price": null,
         "Hour": 1,
         "Day": 2,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-02T01:00:00+00:00",
-        "Consumption": 0.05,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 2.8574061
     },
     {
-        "Price": 10.098,
+        "Price": null,
         "Hour": 2,
         "Day": 2,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-02T02:00:00+00:00",
-        "Consumption": 0.12,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 3.7105007
     },
     {
-        "Price": 10.722,
+        "Price": null,
         "Hour": 3,
         "Day": 2,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-02T03:00:00+00:00",
-        "Consumption": 0.05,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 3.2983193
     },
     {
-        "Price": 18.0,
+        "Price": null,
         "Hour": 4,
         "Day": 2,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-02T04:00:00+00:00",
-        "Consumption": 0.09,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 5.791421
     },
     {
-        "Price": 17.249000000000002,
+        "Price": null,
         "Hour": 5,
         "Day": 2,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-02T05:00:00+00:00",
-        "Consumption": 0.4,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 5.0211806
     },
     {
-        "Price": 17.999000000000002,
+        "Price": null,
         "Hour": 6,
         "Day": 2,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-02T06:00:00+00:00",
-        "Consumption": 0.22,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 7.4837346
     },
     {
-        "Price": 16.41,
+        "Price": null,
         "Hour": 7,
         "Day": 2,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-02T07:00:00+00:00",
-        "Consumption": 0.33,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 9.960706
     },
     {
-        "Price": 18.0,
+        "Price": null,
         "Hour": 8,
         "Day": 2,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-02T08:00:00+00:00",
-        "Consumption": 0.35,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 9.203196
     },
     {
-        "Price": 17.033,
+        "Price": null,
         "Hour": 9,
         "Day": 2,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-02T09:00:00+00:00",
-        "Consumption": 0.46,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 10.117963
     },
     {
-        "Price": 17.997999999999998,
+        "Price": null,
         "Hour": 10,
         "Day": 2,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-02T10:00:00+00:00",
-        "Consumption": 0.27,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 9.305133
     },
     {
-        "Price": 14.992,
+        "Price": null,
         "Hour": 11,
         "Day": 2,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-02T11:00:00+00:00",
-        "Consumption": 0.32,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 10.287379
     },
     {
-        "Price": 14.43,
+        "Price": null,
         "Hour": 12,
         "Day": 2,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-02T12:00:00+00:00",
-        "Consumption": 0.32,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 9.06514
     },
     {
-        "Price": 13.0,
+        "Price": null,
         "Hour": 13,
         "Day": 2,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-02T13:00:00+00:00",
-        "Consumption": 0.27,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 8.705162
     },
     {
-        "Price": 15.777,
+        "Price": null,
         "Hour": 14,
         "Day": 2,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-02T14:00:00+00:00",
-        "Consumption": 0.55,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 8.586398
     },
     {
-        "Price": 17.288,
+        "Price": null,
         "Hour": 15,
         "Day": 2,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-02T15:00:00+00:00",
-        "Consumption": 0.5,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 11.890389
     },
     {
-        "Price": 15.965,
+        "Price": null,
         "Hour": 16,
         "Day": 2,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-02T16:00:00+00:00",
-        "Consumption": 0.3,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 14.701305
     },
     {
-        "Price": 15.763,
+        "Price": null,
         "Hour": 17,
         "Day": 2,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-02T17:00:00+00:00",
-        "Consumption": 0.35,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 12.915472
     },
     {
-        "Price": 14.66,
+        "Price": null,
         "Hour": 18,
         "Day": 2,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-02T18:00:00+00:00",
-        "Consumption": 0.76,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 4.999056
     },
     {
-        "Price": 11.606,
+        "Price": null,
         "Hour": 19,
         "Day": 2,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-02T19:00:00+00:00",
-        "Consumption": 0.17,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 2.0990527
     },
     {
-        "Price": 12.0,
+        "Price": null,
         "Hour": 20,
         "Day": 2,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-02T20:00:00+00:00",
-        "Consumption": 0.13,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 2.4486444
     },
     {
-        "Price": 10.761,
+        "Price": null,
         "Hour": 21,
         "Day": 2,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-02T21:00:00+00:00",
-        "Consumption": 0.06,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 4.1681004
     },
     {
-        "Price": 4.825,
+        "Price": null,
         "Hour": 22,
         "Day": 2,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-02T22:00:00+00:00",
-        "Consumption": 0.11,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 4.9998302
     },
     {
-        "Price": 3.28,
+        "Price": null,
         "Hour": 23,
         "Day": 2,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-02T23:00:00+00:00",
-        "Consumption": 0.09,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 5.5422955
     },
     {
-        "Price": 3.0420000000000003,
+        "Price": null,
         "Hour": 0,
         "Day": 3,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-03T00:00:00+00:00",
-        "Consumption": 1.41,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 2.4987943
     },
     {
-        "Price": 2.924,
+        "Price": null,
         "Hour": 1,
         "Day": 3,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-03T01:00:00+00:00",
-        "Consumption": 0.85,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 5.336176
     },
     {
-        "Price": 3.006,
+        "Price": null,
         "Hour": 2,
         "Day": 3,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-03T02:00:00+00:00",
-        "Consumption": 0.05,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 2.255827
     },
     {
-        "Price": 3.111,
+        "Price": null,
         "Hour": 3,
         "Day": 3,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-03T03:00:00+00:00",
-        "Consumption": 0.08,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 2.809179
     },
     {
-        "Price": 9.0,
+        "Price": null,
         "Hour": 4,
         "Day": 3,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-03T04:00:00+00:00",
-        "Consumption": 0.09,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 4.237684
     },
     {
-        "Price": 13.0,
+        "Price": null,
         "Hour": 5,
         "Day": 3,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-03T05:00:00+00:00",
-        "Consumption": 0.36,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 9.363201
     },
     {
-        "Price": 13.188,
+        "Price": null,
         "Hour": 6,
         "Day": 3,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-03T06:00:00+00:00",
-        "Consumption": 0.35,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 8.389722
     },
     {
-        "Price": 13.288999999999998,
+        "Price": null,
         "Hour": 7,
         "Day": 3,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-03T07:00:00+00:00",
-        "Consumption": 0.37,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 10.421848
     },
     {
-        "Price": 11.998,
+        "Price": null,
         "Hour": 8,
         "Day": 3,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-03T08:00:00+00:00",
-        "Consumption": 0.23,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 10.032865
     },
     {
-        "Price": 13.0,
+        "Price": null,
         "Hour": 9,
         "Day": 3,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-03T09:00:00+00:00",
-        "Consumption": 0.24,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 8.107039
     },
     {
-        "Price": 13.288,
+        "Price": null,
         "Hour": 10,
         "Day": 3,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-03T10:00:00+00:00",
-        "Consumption": 0.13,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 7.7962704
     },
     {
-        "Price": 13.868,
+        "Price": null,
         "Hour": 11,
         "Day": 3,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-03T11:00:00+00:00",
-        "Consumption": 0.12,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 10.004687
     },
     {
-        "Price": 11.994,
+        "Price": null,
         "Hour": 12,
         "Day": 3,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-03T12:00:00+00:00",
-        "Consumption": 0.18,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 7.6825366
     },
     {
-        "Price": 9.236,
+        "Price": null,
         "Hour": 13,
         "Day": 3,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-03T13:00:00+00:00",
-        "Consumption": 0.15,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 8.025461
     },
     {
-        "Price": 10.075,
+        "Price": null,
         "Hour": 14,
         "Day": 3,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-03T14:00:00+00:00",
-        "Consumption": 0.28,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 9.607464
     },
     {
-        "Price": 11.995,
+        "Price": null,
         "Hour": 15,
         "Day": 3,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-03T15:00:00+00:00",
-        "Consumption": 0.05,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 11.538285
     },
     {
-        "Price": 12.225,
+        "Price": null,
         "Hour": 16,
         "Day": 3,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-03T16:00:00+00:00",
-        "Consumption": 0.11,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 11.781129
     },
     {
-        "Price": 11.998,
+        "Price": null,
         "Hour": 17,
         "Day": 3,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-03T17:00:00+00:00",
-        "Consumption": 0.37,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 12.986642
     },
     {
-        "Price": 11.66,
+        "Price": null,
         "Hour": 18,
         "Day": 3,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-03T18:00:00+00:00",
-        "Consumption": 0.33,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 5.232414
     },
     {
-        "Price": 7.034999999999999,
+        "Price": null,
         "Hour": 19,
         "Day": 3,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-03T19:00:00+00:00",
-        "Consumption": 0.33,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 4.519216
     },
     {
-        "Price": 8.437999999999999,
+        "Price": null,
         "Hour": 20,
         "Day": 3,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-03T20:00:00+00:00",
-        "Consumption": 0.48,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 7.122042
     },
     {
-        "Price": 6.65,
+        "Price": null,
         "Hour": 21,
         "Day": 3,
         "Month": 11,
         "Year": 2022,
         "Datetime": "2022-11-03T21:00:00+00:00",
-        "Consumption": 0.14,
-        "PricePrediction": null
+        "Consumption": null,
+        "PricePrediction": 5.6763153
+    },
+    {
+        "Price": null,
+        "Hour": 22,
+        "Day": 3,
+        "Month": 11,
+        "Year": 2022,
+        "Datetime": "2022-11-03T22:00:00+00:00",
+        "Consumption": null,
+        "PricePrediction": 6.3033752
+    },
+    {
+        "Price": null,
+        "Hour": 23,
+        "Day": 3,
+        "Month": 11,
+        "Year": 2022,
+        "Datetime": "2022-11-03T23:00:00+00:00",
+        "Consumption": null,
+        "PricePrediction": 1.7259881
+    },
+    {
+        "Price": null,
+        "Hour": 0,
+        "Day": 4,
+        "Month": 11,
+        "Year": 2022,
+        "Datetime": "2022-11-04T00:00:00+00:00",
+        "Consumption": null,
+        "PricePrediction": 3.4859629
     }
 ]

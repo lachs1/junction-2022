@@ -6,8 +6,9 @@
 }
 
 .Sidebar {
-  background-color: #b4afaf;
+  background-color:  rgb(233, 234, 234);
   height: 100%;
+  border-right:solid 0.5px rgb(222, 222, 222);
 }
 
 .SidebarButton {
@@ -18,12 +19,12 @@
   justify-content: center;
   padding: 1em;
   cursor: pointer;
-  border-bottom:solid 1px rgb(205, 205, 207);
-  border-top:solid 1px rgb(205, 205, 207);
+  border-bottom:solid 0.5px rgb(222, 222, 222);
+  border-top:solid 0.5px rgb(222, 222, 222);
 }
 
 .Logo {
-  color: white;
+  color: rgb(78, 130, 48);
   display: flex;
   flex-direction:row;
   align-items: center;
@@ -40,7 +41,7 @@
 
 .Dashboard {
   width: 100%;
-  background-color: #f3f2f2;
+  background-color: rgb(248,248,248);
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -58,12 +59,15 @@
 .GraphWrapper {
   display: flex;
   flex: 1;
-  background-color: rgb(234, 235, 235);
+  background-color: rgb(253, 255, 255);
   padding: 1em;
   border-radius: 1em;
-  box-shadow: 11px 7px 57px -99px rgba(156,150,150,0.19);
-  -webkit-box-shadow: 11px 7px 57px -99px rgba(156,150,150,0.19);
-  -moz-box-shadow: 11px 7px 57px -99px rgba(156,150,150,0.19);
+  box-shadow: 10px 12px 35px -18px rgba(0,0,0,0.51);
+  -webkit-box-shadow: 10px 12px 35px -18px rgba(0,0,0,0.51);
+  -moz-box-shadow: 10px 12px 35px -18px rgba(0,0,0,0.51);
+  margin-bottom: 3em;
+  margin-right:1.5em;
+  margin-left:1.5em;
 }
 
 .InputWrapper {
@@ -76,16 +80,22 @@
 .EnergyPointWrapper {
   display: flex;
   flex: 1;
-  justify-content: space-evenly;
+  justify-content: left;
+  margin-right:1.5em;
+  margin-left:1.5em;
 }
 
 .EnergyPoint {
-  background-color: rgb(234, 235, 235);
-  padding: 1em;
+  background-color: rgb(253, 253, 253);
+  padding-right: 3em;
+  padding-left: 3em;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  margin:1em;
   border-radius: 1em;
-  box-shadow: 11px 7px 57px -99px rgba(156,150,150,0.19);
-  -webkit-box-shadow: 11px 7px 57px -99px rgba(156,150,150,0.19);
-  -moz-box-shadow: 11px 7px 57px -99px rgba(156,150,150,0.19);
+  box-shadow: 10px 12px 35px -18px rgba(0,0,0,0.51);
+  -webkit-box-shadow: 10px 12px 35px -18px rgba(0,0,0,0.51);
+  -moz-box-shadow: 10px 12px 35px -18px rgba(0,0,0,0.51);
   overflow: hidden;
   flex-direction: column;
   display: flex;
@@ -94,8 +104,13 @@
   height: 30%;
 }
 
+.EnergyPoint:hover {
+  background-color:rgb(205, 205, 207);
+  cursor:pointer;
+}
+
 .Headerbox {  
-  background-color: rgb(205, 216, 215);
+  border-bottom:solid 0.5px rgb(222, 222, 222);
   display: flex;
   padding: 1.8em;
 }
@@ -106,5 +121,9 @@
 
 .SidebarItem {
   padding-left: 0.5em;
+  color: black;
 }
 
+.DashboardHeader {
+  margin-left: 1.5em;
+}
