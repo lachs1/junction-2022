@@ -44,17 +44,54 @@
   height: 100%;
   display: flex;
   flex-direction: column;
+  flex: 1;
 }
 
-.Wrapper {
+
+.DashboardWrapper {
   display: flex;
+  flex: 1;
+  padding: 1em;
+  flex-direction: column;
+}
+
+.GraphWrapper {
+  display: flex;
+  flex: 1;
   background-color: rgb(234, 235, 235);
-  padding: 2em;
-  margin: 2em;
-  border-radius: 2em;
+  padding: 1em;
+  border-radius: 1em;
   box-shadow: 11px 7px 57px -99px rgba(156,150,150,0.19);
   -webkit-box-shadow: 11px 7px 57px -99px rgba(156,150,150,0.19);
   -moz-box-shadow: 11px 7px 57px -99px rgba(156,150,150,0.19);
+}
+
+.InputWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.EnergyPointWrapper {
+  display: flex;
+  flex: 1;
+  justify-content: space-evenly;
+}
+
+.EnergyPoint {
+  background-color: rgb(234, 235, 235);
+  padding: 1em;
+  border-radius: 1em;
+  box-shadow: 11px 7px 57px -99px rgba(156,150,150,0.19);
+  -webkit-box-shadow: 11px 7px 57px -99px rgba(156,150,150,0.19);
+  -moz-box-shadow: 11px 7px 57px -99px rgba(156,150,150,0.19);
+  overflow: hidden;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 30%;
 }
 
 .Headerbox {  
@@ -67,4 +104,7 @@
   font-size: large;
 }
 
+.SidebarItem {
+  padding-left: 0.5em;
+}
 
